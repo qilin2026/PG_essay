@@ -1,7 +1,7 @@
 {
   "slug": "name",
   "title": "Change Your Name",
-  "title_zh": "改个名字",
+  "title_zh": "",
   "date": "2015-01-01",
   "url": "https://paulgraham.com/name.html",
   "category": "thought",
@@ -26,17 +26,7 @@
     "[3]Sometimes founders know it's a problem that they don't have the .com of their name, but delusion strikes a step later in the belief that they'll be able to buy it despite having no evidence it's for sale. Don't believe a domain is for sale unless the owner has already told you an asking price.",
     "Thanksto Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "如果你有一个美国初创公司在一个有很多其他初创公司的领域，你应该改一个好名字。一个好名字不会让你成功，但一个坏名字可能拖你后腿。",
-    "对于 .com 域名来说，你基本上需要一个和公司名字完全一样的。用户将会在浏览器中输入你的名字，你不能让他们看到其他什么东西。",
-    "在实践中这意味着你需要一个两个音节的、容易拼写的、以 .com 结尾的名字。三个音节可以接受但不理想。一个音节的名字是最好的，但几乎不可能找到未被注册的。",
-    "不要使用你必须解释的名字。如果你发现自己在说'它拼做...'或'它是 x 的变体'，那这个名字不够好。",
-    "试着找一个暗示你做什么的名字。Google 是好名字的一个好例子——它暗示了大量的东西。Stripe 是另一个好例子。",
-    "你可以让你的名字成为一个在你的领域有含义的普通词。如果你是做分析的，Analytics.com 会是一个好名字。当然好域名很贵。但花几千或甚至几万美元买一个好域名是值得的。",
-    "如果你实在找不到好名字，可以使用一个听起来让人愉悦但本身没有意义的名字。Skype 和 Spotify 就是这样的例子。",
-    "但不管你怎么选，趁早做。你等得越久，改名字就越难。你的品牌会开始积累价值，而名字——不管多糟糕——就是品牌的一部分。",
-    "这就是为什么值得在创业早期就花时间想一个好名字。这看起来像是无关紧要的事，但它其实是你将做出的最持久的决定之一。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.478308+00:00"
 }

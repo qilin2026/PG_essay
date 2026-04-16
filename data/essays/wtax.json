@@ -1,7 +1,7 @@
 {
   "slug": "wtax",
   "title": "Modeling a Wealth Tax",
-  "title_zh": "模拟财富税",
+  "title_zh": "",
   "date": "2020-01-01",
   "url": "https://paulgraham.com/wtax.html",
   "category": "thought",
@@ -20,18 +20,7 @@
     "The reason wealth taxes have such dramatic effects is that they're applied over and over to the same money. Income tax happens every year, but only to that year's income. Whereas if you live for 60 years after acquiring some asset, a wealth tax will tax that same asset 60 times. A wealth tax compounds.",
     "[1]In practice, eventually some of this 8% would come in the form of dividends, which are taxed as income at issue, so this model actually represents the most optimistic case for the founder."
   ],
-  "paragraphs_zh": [
-    "一些政客提议在所得税和资本利得税之外引入财富税。让我们试着模拟各种财富税水平的效果，看看它们到底意味着什么。",
-    "假设你在二十多岁时创办了一家成功的初创公司，然后又活了60年。财富税会消耗你多少股份？",
-    "如果财富税适用于你的所有资产，很容易计算它的效果。1%的财富税意味着你每年保留99%的股份。60年后你还剩下0.99的60次方 = 0.547。所以1%的财富税将消耗你几乎一半的股份。",
-    "（失去股份显然不意味着净资产减少，除非每股价值的增长低于财富税率。）",
-    "以下是政府在60年内按各种财富税水平会拿走多少股份：",
-    "财富税率/政府拿走：0.1%/6%，0.5%/26%，1.0%/45%，2.0%/70%，3.0%/84%，4.0%/91%，5.0%/95%",
-    "财富税通常会有一个起征点。高起征点会有多大差别？为了模拟这个，我们需要对增长做一些假设。",
-    "假设你的股票最初价值200万美元，公司的轨迹如下：头2年增长3倍，接下来2年增长2倍，然后以每年50%的速度增长6年，之后以每年5%的速度增长。",
-    "这些看似很小的税率产生如此戏剧性的效果，起初可能令人惊讶。有5000万美元起征点的2%财富税在60年内拿走了你大约三分之二的股份。",
-    "财富税之所以有如此巨大的效果，是因为它们被反复应用于同一笔钱。所得税每年发生一次，但只针对当年的新收入。而财富税是对你所有资产反复征收的，像水滴石穿。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.488564+00:00"
 }

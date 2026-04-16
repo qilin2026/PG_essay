@@ -1,7 +1,7 @@
 {
   "slug": "fp",
   "title": "Fashionable Problems",
-  "title_zh": "时髦的问题",
+  "title_zh": "",
   "date": "2020-01-01",
   "url": "https://paulgraham.com/fp.html",
   "category": "thought",
@@ -15,12 +15,7 @@
     "Japanese TranslationArabic Translation",
     "French Translation"
   ],
-  "paragraphs_zh": [
-    "我在许多不同的领域都看到过同样的模式：尽管很多人在某个领域辛勤工作，但只有一小部分可能性空间被探索过，因为他们都在研究类似的东西。",
-    "即使是最聪明、最有想象力的人，在决定研究什么时也出奇地保守。在其他方面绝不会赶时髦的人，却被吸引去研究时髦的问题。",
-    "如果你想尝试研究不时髦的问题，最好的去处之一是那些人们认为已经被充分探索过的领域：文章、Lisp、风险投资——你可能注意到了这里的规律。如果你能找到一种新的方法进入一个很大但看似已经没什么可做的领域，你发现的任何东西的价值都会被它巨大的表面积所放大。",
-    "防止自己被吸引去研究和其他所有人一样东西的最好保护，也许是真正热爱你正在做的事。这样，即使你和其他人犯了同样的错误，以为这件事太边缘、不重要，你也会继续做下去。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.485774+00:00"
 }

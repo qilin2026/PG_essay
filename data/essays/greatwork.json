@@ -1,7 +1,7 @@
 {
   "slug": "greatwork",
   "title": "How to Do Great Work",
-  "title_zh": "如何做出伟大的工作",
+  "title_zh": "",
   "date": "2023-01-01",
   "url": "https://paulgraham.com/greatwork.html",
   "category": "thought",
@@ -243,11 +243,7 @@
     "[29]It may be helpful always to walk or run the same route, because that frees attention for thinking. It feels that way to me, and there is some historical evidence for it.",
     "Thanksto Trevor Blackwell, Daniel Gackle, Pam Graham, Tom Howard, Patrick Hsu, Steve Huffman, Jessica Livingston, Henry Lloyd-Baker, Bob Metcalfe, Ben Miller, Robert Morris, Michael Nielsen, Courtenay Pipkin, Joris Poort, Mieke Roos, Rajat Suri, Harj Taggar, Garry Tan, and my younger son for suggestions and for reading drafts."
   ],
-  "paragraphs_zh": [
-    "如果你收集了许多不同领域中做出伟大工作的技巧清单，它们的交集会是什么样子？我决定亲自来找出答案。",
-    "不同类型的雄心勃勃的人会有不同的人生轨迹，但令人惊讶的是，他们对于如何做出伟大工作的建议有很多重叠之处。",
-    "第一步是决定做什么。你选择的工作需要具备三个特质：它必须是你有天赋的事情，是你有深厚兴趣的事情，而且要有做出伟大成就的空间。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.499572+00:00"
 }

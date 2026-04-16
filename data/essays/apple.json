@@ -1,7 +1,7 @@
 {
   "slug": "apple",
   "title": "Apple's Mistake",
-  "title_zh": "苹果的错误",
+  "title_zh": "",
   "date": "1995-01-01",
   "url": "https://paulgraham.com/apple.html",
   "category": "thought",
@@ -55,16 +55,7 @@
     "Thanksto Sam Altman, Trevor Blackwell, Ross Boucher, James Bracy, Gabor Cselle, Patrick Collison, Jason Freedman, John Gruber, Joe Hewitt, Jessica Livingston, Robert Morris, Teng Siong Ong, Nikhil Pandit, Savraj Singh, and Jared Tame for reading drafts of this.",
     "Russian Translation"
   ],
-  "paragraphs_zh": [
-    "如果苹果在1990年代的衰落教了我们什么，那就是仅仅有好的技术是不够的。你还需要好的商业战略。",
-    "苹果犯的核心错误是试图同时作为软件和硬件公司运营，同时保持封闭的系统。在个人电脑的早期，这种做法行得通。但当IBM兼容机出现并且可以运行微软软件时，苹果的市场份额就开始下滑。",
-    "有趣的是，Steve Jobs被解雇然后回来之后，他并没有改变这个根本策略。苹果仍然做封闭系统。但他让它运作了，通过让产品好到人们愿意为此付出额外的代价。",
-    "回过头来看这段历史，最重要的教训可能是：同一种策略在不同的人手中可以是一场灾难或一个成功。苹果在有Steve Jobs时做封闭系统是一种策略。在没有他时做封闭系统是另一种完全不同的策略——因为缺少了使它行得通的执行力。",
-    "这对创始人有一个重要的教训：你的策略和你执行它的能力是分不开的。一个对某些人来说好的策略对其他人来说可能是灾难性的。",
-    "不要仅仅因为某个你崇拜的公司使用了某种策略就照搬它。问问你自己是否有能力以同样的水平来执行它。",
-    "苹果的故事也说明了创始人对公司有多重要。苹果有和没有Steve Jobs简直是两家不同的公司。这说明了为什么YC如此强调创始人的品质。",
-    "最后，苹果的故事也是一个关于韧性的故事。他们从近乎破产中复活，变成了世界上最有价值的公司。没有任何公司的故事是结束的——只要正确的人在掌舵。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.461174+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "slug": "unions",
   "title": "An Alternative Theory of Unions",
-  "title_zh": "工会的另一种理论",
+  "title_zh": "",
   "date": "2007-01-01",
   "url": "https://paulgraham.com/unions.html",
   "category": "thought",
@@ -19,18 +19,7 @@
     "People who think the labor movement was the creation of heroic union organizers have a problem to explain: why are unions shrinking now? The best they can do is fall back on the default explanation of people living in fallen civilizations. Our ancestors were giants. The workers of the early twentieth century must have had a moral courage that's lacking today.",
     "In fact there's a simpler explanation. The early twentieth century was just a fast-growing startup overpaying for infrastructure. And we in the present are not a fallen people, who have abandoned whatever mysterious high-minded principles produced the high-paying union job. We simply live in a time when the fast-growing companies overspend on different things."
   ],
-  "paragraphs_zh": [
-    "担心贫富差距扩大的人通常把二十世纪中期视为黄金时代。那时我们有大量体面的中产阶级工作——通常是工会化的制造业工作。",
-    "奇怪的是，正是和初创公司合作让我意识到高薪工会工作是从哪里来的。在一个快速增长的市场中，你不会太在意效率。当你开发一个利润率巨大的新产品时，你不会在人力成本上斤斤计较。",
-    "虽然现在很难想象，但制造业在二十世纪中期是一个增长型产业。那是一个小公司生产从自行车到拉链的各种东西都在合并成少数大公司的时代——就像今天网上发生的那样。",
-    "如果你看看1950年代汽车高管的想法，态度一定是：当然，给他们想要的一切，只要不耽误新车型就行。",
-    "换句话说，那些工人得到的报酬并非他们的工作所值。以当时的情况来看，公司如果坚持只按市场价支付工资，那才是愚蠢的。",
-    "如果你想要一个不那么有争议的例子，问问任何在互联网泡沫期间做网站建设顾问的人。在1990年代末，你可以以天价为大公司建设网站。当结果是按100万美元值100万的销售额来衡量时，谁在乎你花了300万来做呢？",
-    "工会运动时代似乎是同样类型的异常现象，只是跨越了更长的时期，并且混合了大量意识形态，使人们无法看清正在发生什么。",
-    "基本上，工会就像 Razorfish（互联网泡沫时期的咨询公司）一样。",
-    "那些认为工人运动是英勇的工会组织者创造的人有一个问题需要解释：为什么工会现在在缩小？他们最好的解释不过是某种阴谋论。",
-    "事实上有一个更简单的解释。二十世纪初只是一个快速增长的初创公司为基础设施多付了钱。而我们现在并非处于后来会被视为黄金时代的一个凄惨的后续阶段。我们只是恢复了正常。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.443203+00:00"
 }

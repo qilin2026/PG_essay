@@ -1,7 +1,7 @@
 {
   "slug": "yahoo",
   "title": "What Happened to Yahoo",
-  "title_zh": "雅虎怎么了",
+  "title_zh": "",
   "date": "2010-01-01",
   "url": "https://paulgraham.com/yahoo.html",
   "category": "thought",
@@ -46,18 +46,7 @@
     "[2]In theory you could beat the death spiral by buying good programmers instead of hiring them. You can get programmers who would never have come to you as employees by buying their startups. But so far the only companies smart enough to do this are companies smart enough not to need to.",
     "Thanksto Trevor Blackwell, Jessica Livingston, and Geoff Ralston for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "当我在1998年第一次认识雅虎时，它是互联网的默认起点。大多数人把雅虎作为他们的主页。它拥有的流量比任何其他网站都多。",
-    "然后Google出现了，一切都变了。但不是一夜之间。雅虎花了十年才真正开始衰落。这中间发生了什么？",
-    "我认为雅虎犯的根本错误是他们不再把自己看作一家技术公司。他们开始把自己看作一家媒体公司。",
-    "这种转变体现在公司文化的方方面面。他们雇佣了更多的媒体人和更少的工程师。他们更关注内容和广告而不是产品和技术。",
-    "当你的竞争对手是Google——一家把自己视为技术公司的公司——这就是一个致命的错误。",
-    "为什么雅虎做出了这个转变？部分原因是他们的收入来自广告。广告收入让他们觉得自己在媒体行业。",
-    "但更深层的原因可能是简单的恐惧。技术是困难的、不可预测的。媒体看起来更安全、更容易理解。",
-    "这种模式在很多行业都能看到。公司开始做困难的创新性工作，然后随着成功而变得保守。他们开始优化现有的东西而不是创造新的东西。",
-    "教训是什么？如果你在技术行业，永远不要停止把自己看作一家技术公司。收入可能来自广告或订阅，但你的核心竞争力必须是技术。",
-    "一旦你停止创新，你就只是在等着被那些没有停止的人取代。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.463721+00:00"
 }

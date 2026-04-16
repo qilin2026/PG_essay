@@ -1,7 +1,7 @@
 {
   "slug": "invtrend",
   "title": "Startup Investing Trends",
-  "title_zh": "创业投资趋势",
+  "title_zh": "",
   "date": "2013-01-01",
   "url": "https://paulgraham.com/invtrend.html",
   "category": "startup",
@@ -55,18 +55,7 @@
     "[7]If idea clashes got bad enough, it could change what it means to be a startup. We currently advise startups mostly to ignore competitors. We tell them startups are competitive like running, not like soccer; you don't have to go and steal the ball away from the other team. But if idea clashes became common enough, maybe you'd start to have to. That would be unfortunate.",
     "Thanksto Sam Altman, Paul Buchheit, Dalton Caldwell, Patrick Collison, Jessica Livingston, Andrew Mason, Geoff Ralston, and Garry Tan for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "初创公司投资的格局在过去十年中发生了很大变化。让我描述一下我看到的最重要的趋势。",
-    "第一个趋势是种子轮的民主化。十年前，获得种子资金很困难。现在有比以前多得多的途径——加速器、天使网络、众筹。",
-    "第二个趋势是估值的上升。各个阶段的估值都比十年前高。部分原因是有更多的钱在追逐交易。",
-    "第三个趋势是国际化。越来越多来自美国以外的初创公司正在获得资金。而且美国投资者越来越愿意投资海外公司。",
-    "第四个趋势是走向更早和更晚。投资者在更早的阶段（甚至是想法阶段）投资，也在更晚的阶段（成长阶段）投资。被挤压的是中间的传统A轮。",
-    "第五个趋势是技术的深化。投资者以前主要投资软件。现在他们也投资硬件、生物科技、清洁能源。每当一个新的技术领域被证明可以用初创公司模式来追求时，投资者就会涌入。",
-    "第六个趋势是信息的增加。创始人和投资者都有比以前更多的信息。像AngelList这样的平台让市场更加透明。",
-    "这些趋势综合起来对创始人来说是好消息。比以前更容易获得资金，在更多不同的阶段。但它们也意味着竞争更激烈了——因为更多的创始人也在进入市场。",
-    "我对未来的预测是这些趋势会继续。投资将变得更加全球化、更加多样化、更加早期。创始人将有更多的选择但也面临更多的竞争。",
-    "在所有的变化中，有一件事保持不变：最终决定一家初创公司命运的仍然是创始人的品质和他们创造的东西的价值。技术和资金都在变化，但这个基本等式没有变。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.471809+00:00"
 }

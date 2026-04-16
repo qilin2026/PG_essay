@@ -1,4 +1,4 @@
-.PHONY: install extract classify build all clean status
+.PHONY: install extract classify build all clean
 
 # Install dependencies
 install:
@@ -12,16 +12,12 @@ extract:
 classify:
 	python scripts/classify.py
 
-# Step 3: Apply pre-generated translations
-apply-translations:
-	python scripts/apply_translations.py
-
-# Step 4: Generate static HTML site
+# Step 3: Generate static HTML site
 build:
 	python scripts/generate.py
 
-# Run full pipeline
-all: extract classify apply-translations build
+# Run full pipeline (extract + classify + build)
+all: extract classify build
 
 # Show classification stats
 classify-stats:
@@ -29,8 +25,8 @@ classify-stats:
 
 # Clean generated site
 clean:
-	rm -rf docs/*
+	rm -rf docs/*.html
 
 # Clean all data (careful!)
 clean-all:
-	rm -rf docs/* data/essays/*.json data/essays.json data/classifications.json
+	rm -rf docs/*.html data/essays/*.json data/essays.json data/classifications.json

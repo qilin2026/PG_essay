@@ -1,7 +1,7 @@
 {
   "slug": "ycstart",
   "title": "How Y Combinator Started",
-  "title_zh": "Y Combinator是如何开始的",
+  "title_zh": "",
   "date": "2005-03-11",
   "url": "https://paulgraham.com/ycstart.html",
   "category": "thought",
@@ -26,24 +26,7 @@
     "We funded the second batch in Silicon Valley. That was a last minute decision. In retrospect I think what pushed me over the edge was going to Foo Camp that fall. The density of startup people in the Bay Area was so much greater than in Boston, and the weather was so nice. I remembered that from living there in the 90s. Plus I didn't want someone else to copy us and describe it as the Y Combinator of Silicon Valley. I wanted YC to be the Y Combinator of Silicon Valley. So doing the winter batch in California seemed like one of those rare cases where the self-indulgent choice and the ambitious one were the same.",
     "If we'd had enough time to do what we wanted, Y Combinator would have been in Berkeley. That was our favorite part of the Bay Area. But we didn't have time to get a building in Berkeley. We didn't have time to get our own building anywhere. The only way to get enough space in time was to convince Trevor to let us take over part of his (as it then seemed) giant building in Mountain View. Yet again we lucked out, because Mountain View turned out to be the ideal place to put something like YC. But even then we barely made it. The first dinner in California, we had to warn all the founders not to touch the walls, because the paint was still wet."
   ],
-  "paragraphs_zh": [
-    "Y Combinator 的7岁生日是3月11日。像往常一样，我们太忙了，直到几天后才注意到。我想我们从来没有在那一天记起过。",
-    "2005年3月11日，Jessica 和我从哈佛广场吃完晚饭走回家。Jessica 当时在一家投资银行工作，但她不喜欢那份工作。",
-    "当时我一直在考虑做一些天使投资。我刚在哈佛本科计算机俱乐部做了一个关于如何创办初创公司的演讲。在演讲后我意识到，没有什么好的方式让我资助这些学生的初创公司。",
-    "从哈佛广场到我家的路上，这个想法成形了。我们将创办自己的投资公司，Jessica 可以为那家公司工作。当我们拐上 Walker 街时，我们已经决定了这件事。",
-    "Jessica 非常高兴能辞掉工作开始自己的公司，所以回家后我给她拍了一张照片。",
-    "公司当时还不叫 Y Combinator。最初我们叫它 Cambridge Seed。但那个名字从未见过天日，因为当我们宣布它时已经改名了。",
-    "最初我们只有部分想法。我们要用标准化条款做种子投资。在 YC 之前，种子投资非常随意。你会从半打天使那里各筹集几千到几万美元，每个人都有不同的条款。",
-    "我们以我们自己创办 Viaweb 时获得的种子投资为模型来设计 YC。我们用从朋友 Julian Weber 那里得到的1万美元开始了 Viaweb。他是一位天使投资者。",
-    "最初我们没有那个后来被证明最重要的想法：同步地而非异步地资助初创公司。改变一切的是决定成批地资助初创公司。",
-    "我们知道学生们已经在制定暑假计划了，所以我们做了我们总是告诉初创公司去做的事：快速发布。就在我们第一次公开宣布后不久，申请就开始涌入了。",
-    "我们很幸运，暑期项目的长度和结构恰好非常适合我们的工作。YC 周期的结构至今几乎和2005年第一期完全一样。",
-    "我们也很幸运地得到了第一批很好的创始人。我们从没指望从第一批中赚钱。我们把投入的钱当作学费。",
-    "人们很难意识到 YC 在当时看起来有多微不足道。我不能怪那些不把我们当回事的人，因为我们自己也不太把自己当回事。我们也不确定这会有用。",
-    "现在 YC 已经足够有名了，当我们资助的公司是正规的时候人们不再惊讶了，但声誉赶上现实花了一段时间。",
-    "当我们看到同步资助公司效果有多好时，我们决定继续这样做。我们每年资助两批初创公司。",
-    "我们在硅谷资助了第二批。那是一个最后一刻的决定。回想起来，我想推动我做出决定的是参加了 Foo Camp，在那里我遇到了很多住在旧金山湾区的初创公司创始人。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.468746+00:00"
 }

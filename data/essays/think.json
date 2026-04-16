@@ -1,7 +1,7 @@
 {
   "slug": "think",
   "title": "How to Think for Yourself",
-  "title_zh": "如何独立思考",
+  "title_zh": "",
   "date": "2020-01-01",
   "url": "https://paulgraham.com/think.html",
   "category": "thought",
@@ -66,11 +66,7 @@
     "Thanksto Trevor Blackwell, Paul Buchheit, Patrick Collison, Jessica Livingston, Robert Morris, Harj Taggar, and Peter Thiel for reading drafts of this.",
     "Italian Translation"
   ],
-  "paragraphs_zh": [
-    "有些工作，如果你不能与同龄人有不同的思考方式，就无法做好。比如，要成为一个成功的科学家，仅仅正确是不够的。你的想法必须既正确又新颖。",
-    "我要讨论的是你产生新颖想法所需要的那种思维方式。我称之为“独立思考”，而成为独立思考者这种品质是可以培养的。",
-    "独立思考的三个组成部分协同运作：对真理的严谨态度帮你发现新想法，新颖性给你注入活力，而思想的坚定则让你在面对反对时依然坚守这些想法。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.489573+00:00"
 }

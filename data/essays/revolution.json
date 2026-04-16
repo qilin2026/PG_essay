@@ -1,7 +1,7 @@
 {
   "slug": "revolution",
   "title": "A Local Revolution?",
-  "title_zh": "一场地方革命？",
+  "title_zh": "",
   "date": "2009-01-01",
   "url": "https://paulgraham.com/revolution.html",
   "category": "thought",
@@ -30,16 +30,7 @@
     "[3]The biggest counterexample here is Skype. If you're doing something that would get shut down in the US, it becomes an advantage to be located elsewhere. That's why Kazaa took the place of Napster. And the expertise and connections the founders gained from running Kazaa helped ensure the success of Skype.",
     "Thanksto Patrick Collison, Jessica Livingston, and Fred Wilson for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "最近我在想初创公司能否对地方政府做和它们对其他行业一样的事。如果可以的话，那将是一件大事。",
-    "初创公司已经颠覆了出租车、酒店、零售、媒体。政府是否也可以被颠覆——或者至少被改善？",
-    "地方政府有很多和大公司一样的问题：它们是大型层级组织，行动缓慢，抵制变革。它们也往往有垄断地位。",
-    "但有一个关键的区别：政府不能被竞争击败。你不能创办一个新城市来和旧城市竞争，至少不像你可以创办一个新公司来和旧公司竞争那样。",
-    "然而，你可以在边缘做一些事情。比如提供政府服务的更好的数字接口。或者收集和发布政府运作的数据让它们更透明。",
-    "最大的机会可能是在政府效率最低的地方。你可以通过技术来解决那些政府因为缺乏激励而没有解决的问题。",
-    "我不知道这个领域最终会变成什么样。但我觉得它值得关注。政府影响着每个人的生活，而它们中的很多显然可以更好。",
-    "技术已经改变了我们购物、旅行、沟通和获取信息的方式。似乎不可避免的是，它最终也会改变我们被治理的方式。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.457184+00:00"
 }

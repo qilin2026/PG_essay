@@ -1,7 +1,7 @@
 {
   "slug": "smart",
   "title": "Beyond Smart",
-  "title_zh": "超越聪明",
+  "title_zh": "",
   "date": "2021-01-01",
   "url": "https://paulgraham.com/smart.html",
   "category": "thought",
@@ -30,23 +30,7 @@
     "[4]Curiously enough, this essay is an example. It started out as an essay about writing ability. But when I came to the distinction between intelligence and having new ideas, that seemed so much more important that I turned the original essay inside out, making that the topic and my original topic one of the points in it. As in many other fields, that level of reworking is easier to contemplate once you've had a lot of practice.",
     "Thanksto Trevor Blackwell, Patrick Collison, Jessica Livingston, Robert Morris, Michael Nielsen, and Lisa Randall for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "如果你问人们爱因斯坦有什么特别的，大多数人会说他真的很聪明。即使那些试图给你更精细答案的人也很可能把智力当成一个必要的前提条件。",
-    "指出智力和它的后果并非同一回事，这看似咬文嚼字，但其实不是。两者之间有巨大的差距。仅仅聪明并不能让你发现相对论。你可能需要聪明才能做到，但那只是起步价。",
-    "我从小就觉得聪明是最值得追求的东西。也许你也是。但我打赌这不是你真正想要的。想象你必须在两者中选一个：非常聪明但从未发现任何新东西，或者不那么聪明但发现了很多新东西。我想大多数人会选后者。",
-    "这个选择让我不舒服的原因是，聪明仍然感觉像是最重要的东西，即使我在智识上知道它不是。我和大多数人一样有这种偏见。",
-    "还有更微妙的原因，一直持续到成年。智力在对话中取胜，因此成为聪明人之间建立社会等级的基础。",
-    "为什么这么多聪明人没能发现任何新东西？从那个方向看，这个问题似乎相当令人沮丧。但从另一个方向看就很令人兴奋。显然有不仅仅依赖智力的其他成分在起作用。那是什么？它们是你可以培养的吗？",
-    "因为智力的问题在于，人们说它主要是天生的。这方面的证据相当有说服力，尤其是考虑到其中一些发现是那些不想要这个答案的研究者发现的。",
-    "这意味着真相令人兴奋地不同于我小时候听到的故事。如果智力是最重要的，而且主要是天生的，那自然结论就是你和 Bobby Fischer 一样要么有它要么没有。但如果智力不是最重要的，而且产生新想法中还有其他必需的成分，那事情就有趣多了。",
-    "那么产生新想法的其他成分是什么？我能提出这个问题本身就证明了我之前提出的论点——智力和产生新想法不是一回事。",
-    "我不打算在这里尝试提供其他成分的完整目录。这是我第一次认真问自己这个问题，我认为它可能是一个长期的探索课题。但我注意到了一些。",
-    "你需要拥有的另一种品质是独立思考。我不想声称这和智力截然不同，但无论它们重叠多少，你可以不那么聪明但更独立思考，或更聪明但更墨守成规。",
-    "产生新想法有一般性的技术——比如致力于自己的项目和克服你面对的障碍。有些技术是特定领域的。",
-    "当然还有很多相当平凡的成分：比如努力工作、充足睡眠、避免某些类型的压力。这些东西不够有魅力，不会进入关于产生伟大发现的传统叙事。但如果你缺少它们中的任何一个，你可能什么也发现不了。",
-    "产生新想法中最令人惊讶的成分之一是写作能力。有一类新想法最好通过写作来发现。如果你不善于写作，你就很难发现它们。",
-    "我预测智力和新想法之间的差距将被证明是一个有趣的地方。如果我们把这个差距仅仅视为失望的衡量标准，那它就不那么有趣了。但如果我们把它看作一个可以通过发现我们缺少的成分来缩小的差距——甚至也许是一个只有通过发现缺少什么才能衡量的差距——那它就变得非常激动人心了。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.496258+00:00"
 }

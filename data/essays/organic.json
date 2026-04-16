@@ -1,7 +1,7 @@
 {
   "slug": "organic",
   "title": "Organic Startup Ideas",
-  "title_zh": "有机的创业点子",
+  "title_zh": "",
   "date": "2004-01-01",
   "url": "https://paulgraham.com/organic.html",
   "category": "startup",
@@ -26,20 +26,7 @@
     "[3]Possible exception: It's hard to compete directly with open source software. You can build things for programmers, but there has to be some part you can charge for.",
     "Thanksto Sam Altman, Trevor Blackwell, and Jessica Livingston for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "想出创业点子的最好方式是问自己：你希望有人为你做什么？",
-    "创业点子有两类：一种是从你自己的生活中有机地生长出来的，另一种是你从远处判断将会被需要的。苹果就是第一种。Apple I 和 Apple II 是为了满足 Steve Wozniak 个人想要的东西而制造的。",
-    "我们自己的初创公司 Viaweb 属于第二种。我们做的是建设网上商店的软件。我们自己并不需要这个软件。",
-    "两种点子之间没有截然的分界线，但最成功的初创公司似乎更接近苹果类型而非 Viaweb 类型。当你能解决你自己面临的问题时，你至少知道用户真的需要它。",
-    "有机的点子通常比人为想出来的更可取，尤其是当创始人年轻时。预测其他人需要什么需要经验。年轻人做出正确判断的唯一领域就是他们自己作为用户所了解的东西。",
-    "所以如果你想创业但还不知道要做什么，我建议你最初集中在有机的点子上。你的世界中缺少什么？有什么东西不好用？",
-    "你可能需要稍微跳出自己来发现问题，因为你往往已经习惯了并视之为理所当然。但你可以确信问题是存在的。你用的每个软件都有某些地方可以改进。",
-    "有一些明显的点子就在那里。你忽视它们的原因和你会忽视建设 Facebook 这个点子的原因一样：它们看起来太微不足道了。",
-    "所以如果你想想出有机的创业点子，我建议你更多关注'点子'部分而不是'创业'部分。只是去修复那些坏掉的东西，然后看看结果是什么。",
-    "不要因为你最初做出来的东西被别人当作玩具而灰心。事实上，那是一个好兆头。那可能正是所有人都忽视了这个点子的原因。",
-    "虽然年轻创始人在想人为的点子方面处于劣势，但他们是有机点子的最佳来源，因为他们处于技术的最前沿。",
-    "没有什么比一个刚刚变得可以解决的未满足需求更有价值的了。如果你找到了一个你能为很多人修复的坏掉的东西，你就找到了一个金矿。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.461727+00:00"
 }

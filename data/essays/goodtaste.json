@@ -1,7 +1,7 @@
 {
   "slug": "goodtaste",
   "title": "Is There Such a Thing as Good Taste?",
-  "title_zh": "真的存在好品味吗？",
+  "title_zh": "",
   "date": "2021-01-01",
   "url": "https://paulgraham.com/goodtaste.html",
   "category": "thought",
@@ -24,22 +24,7 @@
     "The situation with art is messier, of course. You can't measure effectiveness by simply taking a vote, as you do with vaccines. You have to imagine the responses of subjects with a deep knowledge of art, and enough clarity of mind to be able to ignore extraneous influences like the fame of the artist. And even then you'd still see some disagreement. People do vary, and judging art is hard, especially recent art. There is definitely not a total order either of works or of people's ability to judge them. But there is equally definitely a partial order of both. So while it's not possible to have perfect taste, it is possible to have good taste.",
     "Thanksto the Cambridge Union for inviting me, and to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "（本文源自在剑桥联合会的一次演讲。）",
-    "小时候我会说不存在。我父亲这样告诉我。有些人喜欢一些东西，另一些人喜欢另一些，谁能说谁是对的呢？",
-    "好品味不存在这件事看起来如此明显，以至于只是通过间接证据我才意识到父亲错了。这就是我要给你的：间接证据。",
-    "我们最好先说清什么是好品味。在狭义上，它指的是审美判断，在广义上，它指的是任何类型的偏好。广义上的好品味意味着对好的东西有偏好。",
-    "如果不存在好品味，那就不存在好的艺术。因为如果存在好的艺术，很容易判断两个人中谁的品味更好。拿一件好的艺术品和一件坏的放在一起，谁喜欢好的那件，谁的品味就更好。",
-    "所以如果你想抛弃好品味的概念，你也必须抛弃好艺术的概念。这意味着你必须抛弃人们能做好艺术的可能性。因为如果不存在好和坏的概念，那人们在做艺术时就不可能比较好或比较差。",
-    "如果我们抛弃了好品味的概念，我们不知道要走多远，因为我们甚至不会辩论最明显的案例。但这不仅意味着我们不能说哪些画更好。它意味着我们不能说贝多芬比随便敲键盘的人更好。",
-    "这就是我意识到父亲错了的方式。我开始学习绘画。而它就像我做过的其他种类的工作一样：你可以做得好或做得差，如果你努力，你可以做得更好。而当你变得更好时你就在意的东西就是好品味。",
-    "既然我已经解释了如何证明好品味确实存在，我也应该解释为什么人们认为它不存在。有两个原因。一是总是有太多的胡说八道假装是高级品味。事实上大部分所谓的高级品味实际上都是胡说八道。",
-    "而那些声称拥有好品味的人也经常弄错。一代所谓专家所推崇的画作往往与几代之后推崇的如此不同。很难说这些人中有谁是对的。",
-    "人们怀疑艺术可以是好的另一个原因是，艺术中似乎没有这种好的容身之处。论证是这样的。想象几个人在看一件艺术品。它的好存在于哪里？不在物体中，因为物体本身只是物质。也不在观众中，因为每个人的反应可能不同。",
-    "解决这个谜题的方法是认识到艺术的目的是作用于它的人类观众，而人类有很多共同点。而且在一个物体作用的东西在不同人身上相同的程度上，你就有了好的客观参照物。",
-    "因为人们对艺术的反应不是随机的，艺术可以被设计来作用于人，好坏取决于它做得有多有效。就像疫苗一样。如果某人拿出一种不起作用的东西声称它是疫苗，你可以说它不好。",
-    "当然，艺术的情况更复杂。你不能仅仅通过投票来衡量有效性，就像疫苗那样。你必须想象具有足够训练有素的审美来提供有意义的数据的受试者的反应。但不精确不等于不存在。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.496573+00:00"
 }

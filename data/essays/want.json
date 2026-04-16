@@ -1,7 +1,7 @@
 {
   "slug": "want",
   "title": "What You (Want to)* Want",
-  "title_zh": "你（想要）*想要什么",
+  "title_zh": "",
   "date": "2022-11-28",
   "url": "https://paulgraham.com/want.html",
   "category": "thought",
@@ -20,15 +20,7 @@
     "Thanksto Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.",
     "Irish Translation"
   ],
-  "paragraphs_zh": [
-    "大约从9岁起，我就被一个明显的矛盾困惑着：一方面我们由以可预测方式行为的物质构成，另一方面我有一种感觉，觉得我可以选择做任何我想做的事。",
-    "解释答案的最好方法可能是从一个略有错误的版本开始，然后修正它。错误的版本是：你可以做你想做的，但你不能想要你想要的。",
-    "这种说法之所以错误，是因为人们有时确实会改变他们想要的东西。不想要某种欲望的人——比如瘾君子——有时可以让自己停止想要它。",
-    "所以我们修改最初的说法：你可以做你想做的，但你不能想要想要你想要的。",
-    "这仍然不完全对。改变你想要想要的也是可能的。我能想象有人说'我决定不再想要喜欢古典音乐了。'但我们越来越接近了。",
-    "我们可以通过添加更多的'想要'来任意接近一个正确的陈述，就像我们可以通过在小数点后的9串中添加更多的9来任意接近1一样。",
-    "所以表达正确答案的一种方式是使用正则表达式。你可以做你想做的，但存在某个形如'你不能（想要）*想要你想要的'的陈述是正确的。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.498365+00:00"
 }

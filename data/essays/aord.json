@@ -1,7 +1,7 @@
 {
   "slug": "aord",
   "title": "Default Alive or Default Dead?",
-  "title_zh": "默认存活还是默认死亡？",
+  "title_zh": "",
   "date": "2015-01-01",
   "url": "https://paulgraham.com/aord.html",
   "category": "thought",
@@ -35,26 +35,7 @@
     "\"A related problem that I see a lot is premature scaling--founders take a small business that isn't really working (bad unit economics, typically) and then scale it up because they want impressive growth numbers. This is similar to over-hiring in that it makes the business much harder to fix once it's big, plus they are bleeding cash really fast.\"",
     "Thanksto Sam Altman, Paul Buchheit, Joe Gebbia, Jessica Livingston, and Geoff Ralston for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "当我和一家已经运营了八九个月以上的初创公司交谈时，我首先想知道的几乎总是一样的：按照你们目前的收入和支出的轨迹，你们会不会盈利？",
-    "令人震惊的是，创始人自己多么经常不知道。我交谈的一半创始人不知道自己是默认存活还是默认死亡。",
-    "如果你也不知道，Trevor Blackwell 做了一个方便的计算器可以帮你算出来。",
-    "我想首先知道一家初创公司是默认存活还是默认死亡的原因是，接下来的对话取决于此。如果公司是默认存活，我们可以谈论宏大的计划。如果它是默认死亡，我们大概需要谈谈如何拯救它。",
-    "为什么这么少创始人知道他们是默认存活还是默认死亡？主要是因为他们不习惯这样问。这不是创始人天生会做的计算。",
-    "我建议以下解决方案：与其太晚才开始问自己是默认存活还是默认死亡，不如太早就开始问。",
-    "原因是我之前写过的一种现象：致命的紧缩。致命的紧缩就是默认死亡加上增长缓慢加上没有足够的时间来融资。这就是初创公司死亡的方式。",
-    "还有另一个原因创始人不问自己是否默认存活或默认死亡：他们假设融资会很容易。但融资不是确定的事。",
-    "也许把事实和希望分开会有帮助。与其带着模糊的乐观看待未来，不如明确地把你知道的和你希望的分开。",
-    "如果你能指望投资者来救你，那默认死亡也是安全的。但通常他们的兴趣取决于增长。如果你增长缓慢，就不要指望能轻易融资。",
-    "无论如何，快速增长与节省运营成本远不是很多创始人以为的那种非此即彼的选择。实际上有很大的空间兼顾两者。",
-    "如果你注意的话，此时你问的不仅是如何避免致命的紧缩，而是如何避免默认死亡。最好的办法是尽量少花钱。",
-    "创始人告诉自己他们需要招人才能增长。但大多数人倾向于高估这种需要而不是低估它。",
-    "加上刚融完资的创始人经常被资助他们的风投鼓励过度招聘。孤注一掷的策略对风投来说是合理的，但对创始人来说未必。",
-    "初创公司有一种常见的死亡方式。他们做了一个还算吸引人的产品，有不错的初始增长。他们融到了第一轮资。但增长开始放缓，而他们已经有了一个大团队。",
-    "公司应该做的是解决根本问题：产品只是还算吸引人。招更多人来推销一个只是还算行的产品不会解决问题。",
-    "问自己是默认存活还是默认死亡也许能救你。也许它敲响的警钟会抵消刚融完资那种令人陶醉的安全感带来的松懈。",
-    "Airbnb 在 Y Combinator 结束时融资后等了4个月才雇他们的第一个员工。在此期间，三位创始人自己做了所有的事情——客户支持、拍照。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.478892+00:00"
 }

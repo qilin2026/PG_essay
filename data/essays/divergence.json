@@ -1,7 +1,7 @@
 {
   "slug": "divergence",
   "title": "Could VC be a Casualty of the Recession?",
-  "title_zh": "风投会成为经济衰退的牺牲品吗？",
+  "title_zh": "",
   "date": "2008-12-07",
   "url": "https://paulgraham.com/divergence.html",
   "category": "thought",
@@ -27,16 +27,7 @@
     "Thanksto Sam Altman, Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.",
     "Russian Translation"
   ],
-  "paragraphs_zh": [
-    "当前的经济危机能杀死风险投资行业吗？我和很多风投谈过，有些人很担心。但我不认为这个行业会死。它会改变，但不会死。",
-    "VC行业最大的问题不是经济衰退。而是它的结构已经过时了。传统的VC基金筹集大量资金，然后花10年投资和回收。",
-    "这种10年结构在几十年前也许说得通，但现在说不通了。初创公司的周期比以前短得多。很多公司在3-5年内就会有结果。",
-    "经济衰退可能加速一个已经在发生的变化：VC行业的碎片化。一方面，Y Combinator这样的小型种子投资者在做越来越多的早期交易。另一方面，大型公司和成长基金在做后期交易。",
-    "被挤压的是中间层——传统的Series A风投。他们必须做得比以前更多才能证明自己的价值。",
-    "我认为VC行业不会消失。但10年后它可能看起来很不一样。那些适应的会繁荣。那些不适应的会失败——但这和经济衰退没什么关系。这是结构性变化。",
-    "对创始人来说好消息是：不管VC行业发生什么，他们筹钱的方式会变得更好而不是更差。新的投资者类型意味着创始人有更多选择。",
-    "如果你是一个好的创始人，你总是能找到钱。方式可能不同，但钱会在那里。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.453103+00:00"
 }

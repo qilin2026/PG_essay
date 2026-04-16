@@ -1,7 +1,7 @@
 {
   "slug": "prop62",
   "title": "This Year We Can End the Death Penalty in California",
-  "title_zh": "今年我们可以在加州废除死刑",
+  "title_zh": "",
   "date": "2016-01-01",
   "url": "https://paulgraham.com/prop62.html",
   "category": "thought",
@@ -17,15 +17,7 @@
     "This year, in California, you have a chance to end this, by voting yes on Proposition 62. But beware, because there is another proposition, Proposition 66, whose goal is to make it easier to execute people. So yes on 62, no on 66.",
     "It's time."
   ],
-  "paragraphs_zh": [
-    "如果你是加州选民，今年你的选票上有一个重要的提案：第62号提案，禁止死刑。",
-    "我年轻时曾以为关于死刑的辩论是关于何时可以夺取一个人的生命。杀死一个杀人犯是否可以？",
-    "但那不是这里的问题。",
-    "现实世界不像我小时候在电视上看到的那样运作。警察经常逮捕错误的人。被告的律师往往不称职。而检察官的动力往往更多是出于宣传而非正义。",
-    "在现实世界中，大约4%被判处死刑的人是无辜的。所以这不是关于是否可以杀死杀人犯的问题。这是关于是否可以杀死无辜的人。",
-    "一个孩子都能替你回答这个问题。",
-    "今年，在加州，你有机会通过对第62号提案投赞成票来结束这一切。但要当心，因为还有另一个提案，第66号提案，其目标是让处决人更容易。所以对62投赞成票，对66投反对票。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.407874+00:00"
 }

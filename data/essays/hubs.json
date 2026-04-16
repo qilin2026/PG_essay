@@ -1,7 +1,7 @@
 {
   "slug": "hubs",
   "title": "Why Startup Hubs Work",
-  "title_zh": "为什么创业中心有效",
+  "title_zh": "",
   "date": "2004-01-01",
   "url": "https://paulgraham.com/hubs.html",
   "category": "startup",
@@ -42,18 +42,7 @@
     "[4]As I was writing this, I had a demonstration of the density of startup people in the Valley. Jessica and I bicycled to University Ave in Palo Alto to have lunch at the fabulous Oren's Hummus. As we walked in, we met Charlie Cheever sitting near the door. Selina Tobaccowala stopped to say hello on her way out. Then Josh Wilson came in to pick up a take out order. After lunch we went to get frozen yogurt. On the way we met Rajat Suri. When we got to the yogurt place, we found Dave Shen there, and as we walked out we ran into Yuri Sagalov. We walked with him for a block or so and we ran into Muzzammil Zaveri, and then a block later we met Aydin Senkut. This is everyday life in Palo Alto. I wasn't trying to meet people; I was just having lunch. And I'm sure for every startup founder or investor I saw that I knew, there were 5 more I didn't. If Ron Conway had been with us he would have met 30 people he knew.",
     "Thanksto Sam Altman, Paul Buchheit, Jessica Livingston, and Harj Taggar for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "如果你看看创业成功最多的地方，你会发现它们高度集中。大量初创公司出自硅谷、波士顿、纽约。为什么？",
-    "这不仅仅是历史惯性。有一些基本力量在起作用，使得初创公司倾向于聚集在一起。",
-    "第一个是人才的集中。初创公司需要的最重要的东西是好的人。而好的人倾向于聚集在一起，因为他们想和其他好的人在一起。",
-    "第二个是知识的集中。在一个创业中心里，关于如何创办和运营初创公司的隐性知识比其他任何地方都多。你从和其他创始人、投资者和顾问的日常互动中学到这些。",
-    "第三个是投资者的集中。大多数风投在少数几个城市有办公室。如果你不在那些城市，融资会困难得多。",
-    "但也许最重要的是文化。在硅谷，创办初创公司是正常的。你的朋友们在做。你的邻居们在做。失败了也不丢人。在其他大多数地方，创办初创公司被视为冒险和古怪。",
-    "这种文化差异比你想的更重要。人类是社会性动物。我们对我们认为'正常'的事情有强烈的偏见。如果你周围的人都在创业，你更可能也创业。",
-    "有人可能会说远程工作正在让这一切变得不重要。也许将来是这样。但到目前为止，最成功的初创公司仍然集中在少数几个城市。",
-    "面对面互动似乎仍然很重要。不是因为远程工作不行——很多公司已经证明它行。而是因为在一个创业中心里生活所带来的偶然相遇和文化浸泡是远程无法复制的。",
-    "这不意味着你必须在硅谷才能成功。很多成功的初创公司来自其他地方。但在其他条件相同的情况下，在创业中心确实有优势。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.466604+00:00"
 }

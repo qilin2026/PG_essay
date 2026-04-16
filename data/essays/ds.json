@@ -1,7 +1,7 @@
 {
   "slug": "ds",
   "title": "Do Things that Don't Scale",
-  "title_zh": "做那些无法规模化的事情",
+  "title_zh": "",
   "date": "2013-07-25",
   "url": "https://paulgraham.com/ds.html",
   "category": "thought",
@@ -82,11 +82,7 @@
     "French TranslationArabic Translation",
     "Italian TranslationKorean Translation"
   ],
-  "paragraphs_zh": [
-    "在 Y Combinator（Y Combinator），我们最常给出的建议之一就是去做那些无法规模化的事情。很多准创始人相信，初创公司要么起飞，要么就不会。你做出一个产品，把它推向市场，如果你做了一个更好的捕鼠器，人们就会如约而至。如果没有，那就说明市场不存在。",
-    "实际上，初创公司之所以起飞，是因为创始人推动它们起飞。也许有少数几家是自然增长的，但通常需要某种推力才能启动。一个好的比喻是汽车发动机在有电动启动器之前的手摇曲柄。一旦发动机运转起来，它就会持续运转，但启动它是一个单独且费力的过程。",
-    "创始人在早期最常需要做的无法规模化的事情，就是手动招募用户。几乎所有初创公司都必须这样做。你不能等着用户主动找上门来。你必须走出去找到他们。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.472468+00:00"
 }

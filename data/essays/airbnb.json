@@ -1,7 +1,7 @@
 {
   "slug": "airbnb",
   "title": "Subject: Airbnb",
-  "title_zh": "主题：Airbnb",
+  "title_zh": "",
   "date": "2011-03-01",
   "url": "https://paulgraham.com/airbnb.html",
   "category": "thought",
@@ -15,12 +15,7 @@
     "[code]",
     "[/code]"
   ],
-  "paragraphs_zh": [
-    "昨天 Fred Wilson 发表了一篇关于错过 Airbnb 的非凡文章。风投错过好的初创公司是常有的事，但有人在很久之后才公开谈论这件事是极其罕见的。所以那篇文章进一步证明了 Fred 是多么稀有的人。他可能是我认识的最好的风投。",
-    "读 Fred 的文章让我回去翻看了当时我和他之间的邮件往来，当时我试图说服他投资 Airbnb。读起来相当有趣。你可以看到 Fred 的思维在围绕这笔交易运转。",
-    "Fred 和 Airbnb 的创始人们慷慨地同意让我发表这些邮件往来（删去了一句关于对 Airbnb 有战略重要性但不是对话重要部分的内容）。这有趣地展示了创业生态系统中一个除了参与者之外很少有人看到的元素：投资者试图说服彼此投资他们投资组合中的公司。现在有成百上千甚至更多这样的对话在发生，但如果有一个曾经被公开过，我没有见过。Airbnb 的创始人们自己当时甚至都没看过这些邮件。",
-    "我们在 YC（Y Combinator）做了大量这种幕后工作，因为我们投资了如此多的公司，而且我们投资得如此早，投资者有时需要大量的说服才能看到它们的价值。不过我并不总是像这次这么努力。Fred 一定觉得我很烦人。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.466052+00:00"
 }

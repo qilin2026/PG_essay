@@ -1,7 +1,7 @@
 {
   "slug": "ace",
   "title": "Billionaires Build",
-  "title_zh": "亿万富翁在建设",
+  "title_zh": "",
   "date": "2020-01-01",
   "url": "https://paulgraham.com/ace.html",
   "category": "thought",
@@ -59,18 +59,7 @@
     "[4]Not these days, anyway. There were some big ones during the Internet Bubble, and indeed some big IPOs.",
     "Thanksto Trevor Blackwell, Jessica Livingston, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "有一种说法认为亿万富翁是社会的寄生虫——他们的财富来自剥削工人或操纵系统。但如果你看看现代亿万富翁的实际来源，这种说法是站不住脚的。",
-    "今天大多数亿万富翁是通过创办公司致富的。他们创造了以前不存在的东西。他们没有从固定的蛋糕中拿走更大的一块——他们把蛋糕做得更大了。",
-    "想想世界上最富有的一些人。Jeff Bezos 创办了亚马逊，让数亿人可以方便地购物。Elon Musk 创办了特斯拉和 SpaceX，推动了电动汽车和太空探索。这些人不是在剥削——他们在建设。",
-    "当然不是所有亿万富翁都是圣人。有些人确实通过不道德的方式积累了财富。但趋势是清楚的：致富的主要方式已经从控制现有资源转变为创造新价值。",
-    "这种转变有深远的影响。它意味着在一个创业更容易的世界里，最大的财富会流向那些创造最多价值的人。",
-    "批评者会说这些创始人获得的财富比他们创造的价值的公平份额更多。也许是这样。但他们获得的只是他们创造的价值的一小部分。一个让世界变得更好的创始人应该因此而受到奖励。",
-    "更重要的是，考虑一下替代方案。如果我们惩罚创造财富的人，那谁会去创造？",
-    "经济不平等有两个来源：生产力的差异和制度的扭曲。我们应该攻击后者而不是前者。修复那些让人们不当致富的制度缺陷，而不是试图惩罚那些通过创造有价值的东西而致富的人。",
-    "这不是一个左右之争。它是关于我们是想要一个人们因为创造价值而致富的世界，还是一个人们因为操纵系统而致富的世界。",
-    "最好的世界是一个每个有才能和驱动力的人都有机会通过创造有价值的东西来致富的世界。我们离那个世界比大多数人意识到的更近。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.490439+00:00"
 }

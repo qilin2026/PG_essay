@@ -1,7 +1,7 @@
 {
   "slug": "seesv",
   "title": "Where to See Silicon Valley",
-  "title_zh": "去哪里看硅谷",
+  "title_zh": "",
   "date": "2010-01-01",
   "url": "https://paulgraham.com/seesv.html",
   "category": "thought",
@@ -35,17 +35,7 @@
     "I skipped theComputer History Museumbecause this is a list of where to see the Valley itself, not where to see artifacts from it. I also skipped San Jose. San Jose calls itself the capital of Silicon Valley, but when people in the Valley use the phrase \"the city,\" they mean San Francisco. San Jose is a dotted line on a map.",
     "Thanksto Sam Altman, Paul Buchheit, Patrick Collison, and Jessica Livingston for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "如果你来硅谷参观，想看看它真正的样子，我会带你去哪里？这个清单可能会让你惊讶。",
-    "首先我不会带你去任何大公司。苹果、谷歌和Facebook的园区可能令人印象深刻，但它们不能代表硅谷的精髓。硅谷的精髓是初创公司，而初创公司往往在你不会注意到的地方。",
-    "我会带你去University Avenue上的咖啡馆。这是帕洛阿尔托市中心的主街。在正确的时间，你可能在几分钟内就能听到五个不同的人在谈论他们的初创公司或融资交易。",
-    "我会带你去Sand Hill Road，那是大多数顶级风投公司所在的一条安静的街道。从外面看它就是一排普通的低层办公楼。但在里面，决定初创公司命运的会议正在进行。",
-    "我会带你去斯坦福校园。不是因为它漂亮——虽然确实漂亮——而是因为它是硅谷大量人才和想法的源头。",
-    "我还会带你去一些普通的居民区住宅。为什么？因为很多最著名的初创公司就是在车库或卧室里起步的。苹果如此。Google如此。Facebook在一个宿舍房间里开始。",
-    "硅谷看起来和你想象的不一样。它看起来很平常。没有摩天大楼（几乎没有）。没有华丽的办公楼。大部分都是低矮的建筑、宽阔的道路和大量的停车场。",
-    "这种平凡的外表恰恰是重点。硅谷不靠外表取胜。它靠想法取胜。而想法可以在任何地方产生——在咖啡馆里、在车库里、在散步的路上。",
-    "如果你来硅谷期待看到令人叹为观止的东西，你可能会失望。但如果你注意听人们在说什么而不是看他们在哪里说，你会发现这是世界上最令人兴奋的地方之一。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.464431+00:00"
 }

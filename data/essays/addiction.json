@@ -1,7 +1,7 @@
 {
   "slug": "addiction",
   "title": "The Acceleration of Addictiveness",
-  "title_zh": "成瘾性的加速",
+  "title_zh": "",
   "date": "2010-01-01",
   "url": "https://paulgraham.com/addiction.html",
   "category": "thought",
@@ -30,22 +30,7 @@
     "[5]Several people have told me they like the iPad because it lets them bring the Internet into situations where a laptop would be too conspicuous. In other words, it's a hip flask. (This is true of the iPhone too, of course, but this advantage isn't as obvious because it reads as a phone, and everyone's used to those.)",
     "Thanksto Sam Altman, Patrick Collison, Jessica Livingston, and Robert Morris for reading drafts of this."
   ],
-  "paragraphs_zh": [
-    "烈酒、香烟、海洛因和可卡因的共同点是它们都是较不容易上瘾的前身的更浓缩形式。这种模式不断重复，随着我们越来越善于提炼事物，这是不可避免的。",
-    "我们不会想要阻止它。这和治愈疾病是同一个过程：技术进步。技术进步意味着做更多我们想要的事情。当某种形式的技术进步以我们喜欢太多的东西的形式出现时，它就同时是一种进步和一个问题。",
-    "没有人怀疑这个过程在加速，这意味着越来越多我们喜欢的东西将被转化为我们喜欢太多的东西。",
-    "据我所知，没有一个词来表示我们喜欢太多的东西。最接近的是口语意义上的'上瘾'。那种用法在专家中已经足够广泛了。但这里我甚至不太关心狭义上的上瘾。让我担心的是一种更广泛的现象：我们已经能够而且将能够制造越来越多的东西，让人们沉迷其中。",
-    "40年前的世界没有现在这么容易上瘾。除非技术进步的形式停止产生这些东西——这似乎不太可能，因为我们喜欢的东西有很多不同种类——世界将继续变得更加容易上瘾。",
-    "未来40年会给我们带来一些美妙的东西。我不是说它们都应该被避免。酒精是一种危险的毒品，但我更希望活在一个有酒的世界。",
-    "不幸的是，大多数人不会好好管理自己。这意味着随着世界变得更加容易上瘾，人们过上'正常'生活的两种含义——统计意义上的和理想意义上的——将进一步分化。",
-    "这两种含义已经相当分化了。一个试图过好生活的人在当今社会大多数人的眼中已经会显得异常节制了。",
-    "社会最终会对容易上瘾的新事物产生抗体。我见过这种情况发生在香烟上。香烟刚出现时几乎每个人都抽。",
-    "随着关于吸烟危害的知识传播，风俗改变了。在过去20年里，吸烟已经从普通人做的事转变为一种可耻的上瘾行为。我想大多数现在抽烟的人也这么看。",
-    "不过这花了很长时间——大约100年。除非社会抗体进化的速度能够加快以匹配不断上升的新上瘾物的速度，我们将面临越来越多的问题。",
-    "事实上，光加快速度还不够。我们不仅要担心新事物，还要担心现有的事物变得更容易上瘾。这就是Facebook等社交媒体上最阴险的事情。它们不是交付一次然后不变的产品。它们是不断被调整得越来越容易上瘾的服务。",
-    "我认识的大多数人都有互联网成瘾的问题。我们都在试图摸索自己摆脱它的方法。这和我戒电视的方式很相似，就是在阻力最小的地方找到替代品。",
-    "听起来相当古怪，不是吗？当你试图解决还没有社会习俗来指导你的问题时，总是如此。也许到20年后，设法避免互联网成瘾将和避免过度饮食一样普通。"
-  ],
-  "translation_status": "complete",
+  "paragraphs_zh": [],
+  "translation_status": "pending",
   "scraped_at": "2026-04-16T02:34:50.462945+00:00"
 }
