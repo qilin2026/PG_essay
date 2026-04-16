@@ -25,7 +25,15 @@
     "Reddit the site (and now app) is such a fundamentally useful thing that it's almost unkillable. Which is why, despite a long stretch after Steve left when the management strategy ranged from benign neglect to spectacular blunders, traffic just kept growing. You can't do that with most companies. Most companies you take your eye off the ball for six months and you're in deep trouble. But Reddit was special, and when Steve came back in 2015, I knew the world was in for a surprise.",
     "People thought they had Reddit's number: one of the players in Silicon Valley, but not one of the big ones. But those who knew what had been going on behind the scenes knew there was more to the story than this. If Reddit could grow to the size it had with management that was harmless at best, what could it do if Steve came back? We now know the answer to that question. Or at least a lower bound on the answer. Steve is not out of ideas yet."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "我几天前和 Reddit（Reddit）的创始人们做了一个对话活动。在对话中有些东西让我很惊讶。",
+    "Reddit 的创始故事在 YC 圈子里很有名：Steve Huffman 和 Alexis Ohanian 被 YC 拒绝了他们的原始想法（一个手机订餐应用），但我们看到了他们身上的东西，就打电话叫他们回来，建议他们做一个不同的想法——基本上就是网络的首页。那就是 Reddit。",
+    "让我惊讶的是 Steve 说他在 Reddit 被收购后加入 Hipmunk 的原因。他说他离开是因为他觉得自己不再被需要了。Reddit 已经在自行运转了。",
+    "这让我想到了创始人和他们公司之间的关系。一个好的创始人会让公司达到不再需要他们的地步。这是悖论性的：创始人工作得越好，他们就越不重要。",
+    "但大多数创始人并不真的希望自己变得不重要。他们想要被需要。这可能是为什么这么多创始人在公司取得成功后会开始一个新的初创公司。",
+    "一旦你做过一家初创公司，你就知道那种兴奋是什么感觉。你知道解决一个困难问题的快感。你知道和一小群人一起在某事上全力以赴的感觉。正常的公司生活感觉很乏味。",
+    "这就是为什么连续创业者如此常见。不是因为第一次没成功。通常恰恰是因为它成功了。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.501804+00:00"
 }

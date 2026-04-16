@@ -25,7 +25,15 @@
     "Redditis a classic example of this approach. When Reddit first launched, it seemed like there was nothing to it. To the graphically unsophisticated its deliberately minimal design seemed like no design at all. But Reddit solved the real problem, which was to tell people what was new and otherwise stay out of the way. As a result it became massively successful. Now that conventional ideas have caught up with it, it seems obvious. People look at Reddit and think the founders were lucky. Like all such things, it was harder than it looked. The Reddits pushed so hard against the current that they reversed it; now it looks like they're merely floating downstream.",
     "So when you look at something like Reddit and think \"I wish I could think of an idea like that,\" remember: ideas like that are all around you. But you ignore them because they look wrong."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "以下是创造新事物的六项原则。这里的'新事物'可以是任何从文章到初创公司的东西。",
+    "1. 对正确的问题有品味。这可能是最重要的。你需要能够辨别什么是有趣的问题。对问题的品味有点像对人的判断力。它不完全是可以教的，但在某种程度上是可以学的。",
+    "2. 一次只做一件事。当你发现了一个有趣的问题，不要试图同时做太多事。你只有在集中注意力时才能做出好的工作。",
+    "3. 比你需要的更努力。如果你只是做到'足够好'，结果几乎永远不会好。要比你认为必要的更努力。",
+    "4. 寻找一起工作的好人。与你尊重的人一起工作。不是因为你需要他们的帮助——虽然你确实需要——而是因为和好人一起工作让你自己也更好。",
+    "5. 理解你的用户。无论你在做什么，确保你理解你在为谁做。这听起来像陈词滥调，但做到它出奇地困难。",
+    "6. 发布，然后迭代。不要等到完美才发布。让一个不完美的版本出现在世界上，然后根据反馈改进它。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.447016+00:00"
 }

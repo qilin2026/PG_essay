@@ -22,7 +22,19 @@
     "The most interesting question here may be what high res fundraising will do to the world of investors. Bolder investors will now get rewarded with lower prices. But more important, in a hits-driven business, is that they'll be able to get into the deals they want. Whereas the \"who else is investing?\" type of investors will not only pay higher prices, but may not be able to get into the best deals at all.",
     "Thanksto Immad Akhund, Sam Altman, John Bautista, Pete Koomen, Jessica Livingston, Dan Siroker, Harj Taggar, and Fred Wilson for reading drafts of this."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "越来越多的初创公司在天使轮融资中使用可转换票据，原因是它们让交易更快完成。通过让初创公司更容易给不同投资者不同的条款，它们帮助打破了固定规模股权融资轮次中的僵局。",
+    "投资者对初创公司看法的最大影响因素是其他投资者的看法。极少有人纯粹自己做决定。每个人都在等其他人先行动。",
+    "这往往产生僵局。进行老式的固定规模股权融资轮次可能需要好几周，因为所有天使投资人都坐等其他人先表态。",
+    "可转换票据让初创公司通过用更低的（有效）估值奖励愿意先行动的投资者来打破这种僵局。他们确实值得这个奖励，因为他们承担了更大的风险。",
+    "可转换票据允许价格有更多灵活性的原因是，估值上限不是实际估值，而且票据便宜且容易操作。所以你可以为不同投资者做不同的票据。",
+    "那个上限不必简单地单调上升。初创公司也可以给他们预期最有帮助的投资者更好的条件。重点只是不同投资者获得不同条款。",
+    "给不同投资者不同条款显然是未来的方向。市场总是朝着更高分辨率演化。你可能不需要用可转换票据来做到这一点。如果你足够吃香，你可以做可变价格的股权融资。",
+    "僵局不是固定规模股权融资轮次的唯一问题。另一个是初创公司必须提前决定融多少钱。我认为初创公司在开始融资前不应该设定目标金额。",
+    "期望初创公司提前选择最优融资规模是不合理的，因为那取决于投资者的反应，而那些是不可预测的。",
+    "固定规模、多投资者的天使轮对初创公司来说是一个如此糟糕的主意，以至于人们不禁要问为什么以前要这样做。一种可能是这种习惯沿袭自风投轮次。",
+    "这里最有趣的问题可能是高分辨率融资会对投资者的世界产生什么影响。更大胆的投资者现在会因更低的价格而得到回报。这是一件好事。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.464105+00:00"
 }
