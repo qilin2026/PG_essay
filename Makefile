@@ -29,8 +29,8 @@ classify-stats:
 
 # Clean generated site
 clean:
-	rm -rf site/*
+	rm -rf docs/*
 
 # Clean all data (careful!)
 clean-all:
-	rm -rf site/* data/essays/*.json data/essays.json data/classifications.json
+	rm -rf docs/* data/essays/*.json data/essays.json data/classifications.json

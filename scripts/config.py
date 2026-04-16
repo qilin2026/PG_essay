@@ -9,7 +9,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 ESSAYS_DIR = DATA_DIR / "essays"
 TEMPLATES_DIR = PROJECT_ROOT / "templates"
-SITE_DIR = PROJECT_ROOT / "site"
+SITE_DIR = PROJECT_ROOT / "docs"
 OVERRIDES_FILE = DATA_DIR / "overrides.json"
 INDEX_FILE = DATA_DIR / "essays.json"
 
