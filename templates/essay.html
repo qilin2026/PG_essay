@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ essay.title_zh }} - {{ site_title }}</title>
+  <meta name="description" content="{{ essay.title_zh }} ({{ essay.title }}) - Paul Graham 文章中文翻译">
+</head>
+<body bgcolor="#ffffff" link="#000099" vlink="#464646">
+<br>
+<table border="0" cellpadding="0" cellspacing="0" width="435" align="center">
+  <tr valign="top">
+    <td width="435">
+      <a href="index.html">
+        <img src="https://s.turbifycdn.com/aah/paulgraham/essays-6.gif"
+             width="410" height="45" border="0" hspace="0" vspace="0"
+             alt="{{ site_title }}">
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="435" align="center">
+  <tr valign="top">
+    <td width="435">
+      <font size="5" face="{{ font_stack }}">
+        <b>{{ essay.title_zh }}</b>
+      </font>
+      <br>
+      <font size="2" face="Verdana" color="#999999">
+        {{ essay.title }}
+      </font>
+      <br><br>
+      {% if essay.date %}
+      <font size="2" face="{{ font_stack }}" color="#999999">
+        {{ essay.date }}
+      </font>
+      <br><br>
+      {% endif %}
+      <font size="3" face="{{ font_stack }}" style="line-height: 1.8;">
+        {% for para in essay.paragraphs_zh %}
+        {{ para }}
+        {% if not loop.last %}<br><br>{% endif %}
+        {% endfor %}
+      </font>
+      <br><br><br>
+      <font size="2" face="{{ font_stack }}" color="#999999">
+        <hr style="border:none; border-top:1px solid #eee; margin: 20px 0;">
+        原文：<a href="{{ essay.url }}" style="color:#999;">{{ essay.title }}</a>
+        （paulgraham.com）<br>
+        {{ site_disclaimer }}
+      </font>
+      <br><br>
+      <font size="2" face="{{ font_stack }}">
+        <a href="index.html">← 返回文章列表</a>
+      </font>
+      <br><br><br>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

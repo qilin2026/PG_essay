@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site_title }}</title>
+  <meta name="description" content="{{ site_subtitle }} - {{ site_disclaimer }}">
+</head>
+<body bgcolor="#ffffff" link="#000099" vlink="#464646">
+<br>
+<table border="0" cellpadding="0" cellspacing="0" width="435" align="center">
+  <tr valign="top">
+    <td width="435">
+      <a href="index.html">
+        <img src="https://s.turbifycdn.com/aah/paulgraham/essays-6.gif"
+             width="410" height="45" border="0" hspace="0" vspace="0"
+             alt="{{ site_title }}">
+      </a>
+      <br><br>
+      <font size="2" face="{{ font_stack }}">
+        <b>{{ site_title }}</b><br>
+        <span style="color: #666;">{{ site_subtitle }}</span>
+        <br><br>
+      </font>
+      <table border="0" cellpadding="0" cellspacing="0" width="435">
+        {% for essay in essays %}
+        <tr valign="top">
+          <td width="435">
+            <img src="https://s.turbifycdn.com/aah/paulgraham/essays-4.gif"
+                 width="12" height="14" border="0" hspace="0" vspace="0"
+                 align="left">
+            <font size="2" face="{{ font_stack }}">
+              <a href="{{ essay.slug }}.html">{{ essay.title_zh }}</a>
+              <font color="#999999" size="1">（{{ essay.title }}）</font>
+              {% if essay.date %}
+              <font color="#999999" size="1"> - {{ essay.date }}</font>
+              {% endif %}
+            </font>
+            <br><br>
+          </td>
+        </tr>
+        {% endfor %}
+      </table>
+      <br><br>
+      <font size="1" face="{{ font_stack }}" color="#999999">
+        {{ site_disclaimer }}<br>
+        原站：<a href="https://paulgraham.com/articles.html" style="color:#999;">paulgraham.com</a>
+      </font>
+      <br><br>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

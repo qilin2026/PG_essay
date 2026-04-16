@@ -1,0 +1,21 @@
+{
+  "slug": "think",
+  "title": "How to Think for Yourself",
+  "title_zh": "如何独立思考",
+  "date": "November 2020",
+  "url": "https://paulgraham.com/think.html",
+  "category": "thought",
+  "included": true,
+  "paragraphs_en": [
+    "There are some kinds of work that you can't do well without thinking differently from your peers. To be a successful scientist, for example, it's not enough just to be correct. Your ideas have to be both correct and novel.",
+    "What I'm going to discuss is the kind of thinking you need to have novel ideas. I call it \"independent-mindedness,\" and the quality of being an independent thinker is something you can cultivate.",
+    "The three components of independent-mindedness work in concert: fastidiousness about truth finds new ideas, novelty energizes you, and strength of mind lets you hold onto them against opposition."
+  ],
+  "paragraphs_zh": [
+    "有些工作，如果你不能与同龄人有不同的思考方式，就无法做好。比如，要成为一个成功的科学家，仅仅正确是不够的。你的想法必须既正确又新颖。",
+    "我要讨论的是你产生新颖想法所需要的那种思维方式。我称之为\u201c独立思考\u201d，而成为独立思考者这种品质是可以培养的。",
+    "独立思考的三个组成部分协同运作：对真理的严谨态度帮你发现新想法，新颖性给你注入活力，而思想的坚定则让你在面对反对时依然坚守这些想法。"
+  ],
+  "translation_status": "complete",
+  "scraped_at": "2026-04-16T00:00:00Z"
+}
