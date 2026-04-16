@@ -22,6 +22,16 @@
 5. **每批只翻译 2-3 篇** — 质量优先于数量
 6. **专有名词** — 首次出现时中英对照，如：Y Combinator（Y Combinator）
 
+## 翻译工作流（核心）
+
+采用"用户发原文 → Claude 翻译 → 用户验证 → 写入 JSON"的方式：
+
+1. **用户发送原文** — 用户从 paulgraham.com 复制一篇文章的完整英文原文（包括注释和致谢），发送到对话中
+2. **Claude 逐段翻译** — Claude 在对话中返回逐段中文翻译，用户可以直接对照原文检查质量
+3. **用户确认满意后** — Claude 将翻译写入 `data/essays/{slug}.json`（更新 title_zh、paragraphs_zh、translation_status）
+4. **定期生成站点** — 每完成几篇后运行 `python scripts/generate.py` 生成 HTML 到 `docs/`
+5. **提交并推送** — `git add -A && git commit && git push`
+
 ## 项目结构
 
 ```
@@ -69,15 +79,6 @@ PG_essay/
 - `title_zh` 填入中文标题
 - `paragraphs_zh` 填入逐段翻译（数量应与 paragraphs_en 一致）
 - `translation_status` 改为 "complete"
-
-## 翻译工作流
-
-1. 读取 `data/essays/{slug}.json` 中的 `paragraphs_en`
-2. 逐段翻译为中文，写入 `paragraphs_zh`
-3. 翻译标题，写入 `title_zh`
-4. 设 `translation_status` 为 "complete"
-5. 每完成几篇后运行 `python scripts/generate.py` 生成站点
-6. 提交并推送到 main 分支
 
 ## 写入翻译的方式
 
