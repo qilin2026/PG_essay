@@ -1,0 +1,1328 @@
+{
+  "progbot": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Programming Bottom-Up - Lisp 编程",
+    "source": "manual_override"
+  },
+  "lwba": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Lisp 技术文章",
+    "source": "manual_override"
+  },
+  "avg": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Beating the Averages - 核心论点围绕 Lisp",
+    "source": "manual_override"
+  },
+  "javacover": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Java's Cover - 编程语言评论",
+    "source": "manual_override"
+  },
+  "popular": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Being Popular - 编程语言设计",
+    "source": "manual_override"
+  },
+  "langdes": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Five Questions about Language Design - 编程语言设计",
+    "source": "manual_override"
+  },
+  "rootsoflisp": {
+    "category": "lisp",
+    "included": false,
+    "reason": "The Roots of Lisp - 纯 Lisp 技术",
+    "source": "manual_override"
+  },
+  "road": {
+    "category": "lisp",
+    "included": false,
+    "reason": "The Other Road Ahead - Web 应用技术细节",
+    "source": "manual_override"
+  },
+  "diff": {
+    "category": "lisp",
+    "included": false,
+    "reason": "What Made Lisp Different - 纯 Lisp",
+    "source": "manual_override"
+  },
+  "noop": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Why Arc Isn't Especially Object-Oriented - Arc/Lisp",
+    "source": "manual_override"
+  },
+  "taste": {
+    "category": "thought",
+    "included": true,
+    "reason": "Taste for Makers - 关于品味和设计思想",
+    "source": "manual_override"
+  },
+  "fix": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Lisp 相关技术",
+    "source": "manual_override"
+  },
+  "power": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Succinctness is Power - 编程语言",
+    "source": "manual_override"
+  },
+  "icad": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Lisp 在设计中的应用 - 纯技术",
+    "source": "manual_override"
+  },
+  "spam": {
+    "category": "lisp",
+    "included": false,
+    "reason": "A Plan for Spam - 垃圾邮件过滤技术",
+    "source": "manual_override"
+  },
+  "desres": {
+    "category": "thought",
+    "included": true,
+    "reason": "Design and Research - 关于设计哲学",
+    "source": "manual_override"
+  },
+  "better": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Better Bayesian Filtering - 贝叶斯过滤技术",
+    "source": "manual_override"
+  },
+  "hundred": {
+    "category": "lisp",
+    "included": false,
+    "reason": "The Hundred-Year Language - 编程语言",
+    "source": "manual_override"
+  },
+  "iflisp": {
+    "category": "lisp",
+    "included": false,
+    "reason": "If Lisp is So Great - Lisp 相关",
+    "source": "manual_override"
+  },
+  "hp": {
+    "category": "thought",
+    "included": true,
+    "reason": "Hackers and Painters - 核心是思想而非技术",
+    "source": "manual_override"
+  },
+  "ffb": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Filters that Fight Back - 反垃圾邮件技术",
+    "source": "manual_override"
+  },
+  "gba": {
+    "category": "thought",
+    "included": true,
+    "reason": "The Word Hacker - 关于黑客文化而非技术",
+    "source": "manual_override"
+  },
+  "gh": {
+    "category": "thought",
+    "included": true,
+    "reason": "Great Hackers - 虽标题偏技术但核心是人才与创造力",
+    "source": "manual_override"
+  },
+  "pypar": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Python Paradox - 编程语言",
+    "source": "manual_override"
+  },
+  "mac": {
+    "category": "thought",
+    "included": true,
+    "reason": "Return of the Mac - 关于技术选择哲学",
+    "source": "manual_override"
+  },
+  "6631327": {
+    "category": "lisp",
+    "included": false,
+    "reason": "软件专利号 - 技术法律",
+    "source": "manual_override"
+  },
+  "softwarepatents": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Are Software Patents Evil - 软件专利技术话题",
+    "source": "manual_override"
+  },
+  "head": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Holding a Program in One's Head - 编程技术",
+    "source": "manual_override"
+  },
+  "prcmc": {
+    "category": "lisp",
+    "included": false,
+    "reason": "技术相关",
+    "source": "manual_override"
+  },
+  "property": {
+    "category": "thought",
+    "included": true,
+    "reason": "关于知识产权的思考，非技术",
+    "source": "manual_override"
+  },
+  "hw": {
+    "category": "lisp",
+    "included": false,
+    "reason": "The Hardware Renaissance - 硬件技术",
+    "source": "manual_override"
+  },
+  "altair": {
+    "category": "lisp",
+    "included": false,
+    "reason": "What Microsoft Is this the Altair Basic of - 技术类比",
+    "source": "manual_override"
+  },
+  "weird": {
+    "category": "lisp",
+    "included": false,
+    "reason": "Weird Languages - 编程语言",
+    "source": "manual_override"
+  },
+  "prop62": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "nerds": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "say": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "wealth": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "gap": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "essay": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "bubble": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "laundry": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "polls": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "charisma": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "usa": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "hs": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "start": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "venturecapital": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "college": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "writing44": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "bronze": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "submarine": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "hiring": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "opensource": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ladder": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "inequality": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "sfp": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ideas": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "vcsqueeze": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "startupfunding": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "web20": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "procrastination": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "love": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "whyyc": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "randomness": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "startuplessons": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "siliconvalley": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "america": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "marginal": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "island": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "copy": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "investors": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "mit": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "startupmistakes": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "goodart": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "foundersatwork": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "wisdom": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "notnot": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "microsoft": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "judgement": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "guidetoinvestors": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "unions": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "equity": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "stuff": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "die": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "colleges": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "philosophy": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "webstartups": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "startuphubs": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "newthings": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "trolls": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ycombinator": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "boss": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "disagree": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "heroes": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "googles": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "good": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "lies": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "distraction": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "cities": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "fundraising": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "badeconomy": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "artistsship": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "highres": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "divergence": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "credentials": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "identity": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "13sentences": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "hackernews": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "maybe": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "convergence": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "angelinvesting": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "relres": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "5founders": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "foundervisa": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "twitter": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "revolution": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "makersschedule": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ramenprofitable": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "segway": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "kate": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "determination": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "nthings": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "publishing": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "discover": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "really": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "apple": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "organic": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "selfindulgence": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "top": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "addiction": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "future": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "yahoo": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "hiresfund": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "seesv": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "superangels": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "founders": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "tablets": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "control": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "airbnb": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "patentpledge": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "hubs": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "vw": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "schlep": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "word": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ambitious": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ycstart": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "speak": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "todo": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "swan": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "growth": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "startupideas": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "invtrend": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ds": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "convince": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "herd": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "fr": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "before": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "mean": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "pinch": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "know": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ecw": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "95": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "corpdev": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "work": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ronco": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "name": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "safe": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "aord": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "talk": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "bias": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "jessica": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "re": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ineq": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "vb": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "pgh": {
+    "category": "startup",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "disc": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "pow": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "sun": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "genius": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "nov": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "lesson": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "kids": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "fp": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "mod": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "fh": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "noob": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "useful": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "cred": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "orth": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "conformism": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "wtax": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "early": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "think": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "airbnbs": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "ace": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "earnest": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "worked": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "donate": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "simply": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "richnow": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "real": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "nft": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "newideas": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "fn": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "own": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "hwh": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "smart": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "goodtaste": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "words": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "heresy": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "users": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "alien": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "want": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "read": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "getideas": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "greatwork": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "superlinear": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "best": {
+    "category": "writing",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "google": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "reddits": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  },
+  "persistence": {
+    "category": "thought",
+    "included": true,
+    "reason": "Heuristic classification based on title",
+    "source": "heuristic"
+  }
+}

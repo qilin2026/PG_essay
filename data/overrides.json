@@ -1,0 +1,178 @@
+{
+  "hp": {
+    "included": true,
+    "reason": "Hackers and Painters - 核心是思想而非技术"
+  },
+  "avg": {
+    "included": false,
+    "reason": "Beating the Averages - 核心论点围绕 Lisp"
+  },
+  "rootsoflisp": {
+    "included": false,
+    "reason": "The Roots of Lisp - 纯 Lisp 技术"
+  },
+  "arc0": {
+    "included": false,
+    "reason": "Arc - Lisp 方言发布"
+  },
+  "arcll1": {
+    "included": false,
+    "reason": "Arc Language - 技术细节"
+  },
+  "ilc03": {
+    "included": false,
+    "reason": "ILC 2003 - Lisp 会议演讲"
+  },
+  "icad": {
+    "included": false,
+    "reason": "Lisp 在设计中的应用 - 纯技术"
+  },
+  "diff": {
+    "included": false,
+    "reason": "What Made Lisp Different - 纯 Lisp"
+  },
+  "fix": {
+    "included": false,
+    "reason": "Lisp 相关技术"
+  },
+  "lwba": {
+    "included": false,
+    "reason": "Lisp 技术文章"
+  },
+  "onlisp": {
+    "included": false,
+    "reason": "On Lisp - Lisp 编程书"
+  },
+  "progbot": {
+    "included": false,
+    "reason": "Programming Bottom-Up - Lisp 编程"
+  },
+  "accgen": {
+    "included": false,
+    "reason": "Accumulator Generator - 编程语言对比"
+  },
+  "spam": {
+    "included": false,
+    "reason": "A Plan for Spam - 垃圾邮件过滤技术"
+  },
+  "better": {
+    "included": false,
+    "reason": "Better Bayesian Filtering - 贝叶斯过滤技术"
+  },
+  "spamhausblacklist": {
+    "included": false,
+    "reason": "垃圾邮件技术"
+  },
+  "wfks": {
+    "included": false,
+    "reason": "Will Filters Kill Spam - 垃圾邮件过滤"
+  },
+  "ffb": {
+    "included": false,
+    "reason": "Filters that Fight Back - 反垃圾邮件技术"
+  },
+  "stopspam": {
+    "included": false,
+    "reason": "Stopping Spam - 垃圾邮件技术"
+  },
+  "langdes": {
+    "included": false,
+    "reason": "Five Questions about Language Design - 编程语言设计"
+  },
+  "power": {
+    "included": false,
+    "reason": "Succinctness is Power - 编程语言"
+  },
+  "hundred": {
+    "included": false,
+    "reason": "The Hundred-Year Language - 编程语言"
+  },
+  "popular": {
+    "included": false,
+    "reason": "Being Popular - 编程语言设计"
+  },
+  "pypar": {
+    "included": false,
+    "reason": "Python Paradox - 编程语言"
+  },
+  "reesoo": {
+    "included": false,
+    "reason": "技术相关"
+  },
+  "thist": {
+    "included": false,
+    "reason": "技术相关"
+  },
+  "prcmc": {
+    "included": false,
+    "reason": "技术相关"
+  },
+  "carl": {
+    "included": false,
+    "reason": "Carl - 技术人物"
+  },
+  "property": {
+    "included": true,
+    "reason": "关于知识产权的思考，非技术"
+  },
+  "gh": {
+    "included": true,
+    "reason": "Great Hackers - 虽标题偏技术但核心是人才与创造力"
+  },
+  "desres": {
+    "included": true,
+    "reason": "Design and Research - 关于设计哲学"
+  },
+  "iflisp": {
+    "included": false,
+    "reason": "If Lisp is So Great - Lisp 相关"
+  },
+  "noop": {
+    "included": false,
+    "reason": "Why Arc Isn't Especially Object-Oriented - Arc/Lisp"
+  },
+  "weird": {
+    "included": false,
+    "reason": "Weird Languages - 编程语言"
+  },
+  "head": {
+    "included": false,
+    "reason": "Holding a Program in One's Head - 编程技术"
+  },
+  "road": {
+    "included": false,
+    "reason": "The Other Road Ahead - Web 应用技术细节"
+  },
+  "javacover": {
+    "included": false,
+    "reason": "Java's Cover - 编程语言评论"
+  },
+  "gba": {
+    "included": true,
+    "reason": "The Word Hacker - 关于黑客文化而非技术"
+  },
+  "taste": {
+    "included": true,
+    "reason": "Taste for Makers - 关于品味和设计思想"
+  },
+  "mac": {
+    "included": true,
+    "reason": "Return of the Mac - 关于技术选择哲学"
+  },
+  "6631327": {
+    "included": false,
+    "reason": "软件专利号 - 技术法律"
+  },
+  "softwarepatents": {
+    "included": false,
+    "reason": "Are Software Patents Evil - 软件专利技术话题"
+  },
+  "altair": {
+    "included": false,
+    "reason": "What Microsoft Is this the Altair Basic of - 技术类比"
+  },
+  "hw": {
+    "included": false,
+    "reason": "The Hardware Renaissance - 硬件技术"
+  }
+}

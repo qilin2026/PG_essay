@@ -76,6 +76,21 @@ DEFAULT_OVERRIDES = {
     "carl": {"included": False, "reason": "Carl - 技术人物"},
     "property": {"included": True, "reason": "关于知识产权的思考，非技术"},
     "gh": {"included": True, "reason": "Great Hackers - 虽标题偏技术但核心是人才与创造力"},
+    # Heuristic classifier corrections
+    "desres": {"included": True, "reason": "Design and Research - 关于设计哲学"},
+    "iflisp": {"included": False, "reason": "If Lisp is So Great - Lisp 相关"},
+    "noop": {"included": False, "reason": "Why Arc Isn't Especially Object-Oriented - Arc/Lisp"},
+    "weird": {"included": False, "reason": "Weird Languages - 编程语言"},
+    "head": {"included": False, "reason": "Holding a Program in One's Head - 编程技术"},
+    "road": {"included": False, "reason": "The Other Road Ahead - Web 应用技术细节"},
+    "javacover": {"included": False, "reason": "Java's Cover - 编程语言评论"},
+    "gba": {"included": True, "reason": "The Word Hacker - 关于黑客文化而非技术"},
+    "taste": {"included": True, "reason": "Taste for Makers - 关于品味和设计思想"},
+    "mac": {"included": True, "reason": "Return of the Mac - 关于技术选择哲学"},
+    "6631327": {"included": False, "reason": "软件专利号 - 技术法律"},
+    "softwarepatents": {"included": False, "reason": "Are Software Patents Evil - 软件专利技术话题"},
+    "altair": {"included": False, "reason": "What Microsoft Is this the Altair Basic of - 技术类比"},
+    "hw": {"included": False, "reason": "The Hardware Renaissance - 硬件技术"},
 }
 
 # --- Site Generation ---

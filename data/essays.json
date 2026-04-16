@@ -1,0 +1,1328 @@
+[
+  {
+    "slug": "prop62",
+    "title": "This Year We Can End the Death Penalty in California",
+    "date": "2016-01-01",
+    "url": "https://paulgraham.com/prop62.html"
+  },
+  {
+    "slug": "progbot",
+    "title": "Programming Bottom-Up",
+    "date": "",
+    "url": "https://paulgraham.com/progbot.html"
+  },
+  {
+    "slug": "lwba",
+    "title": "Lisp for Web-Based Applications",
+    "date": "2001-01-01",
+    "url": "https://paulgraham.com/lwba.html"
+  },
+  {
+    "slug": "avg",
+    "title": "Beating the Averages",
+    "date": "2003-01-01",
+    "url": "https://paulgraham.com/avg.html"
+  },
+  {
+    "slug": "javacover",
+    "title": "Java's Cover",
+    "date": "2005-12-13",
+    "url": "https://paulgraham.com/javacover.html"
+  },
+  {
+    "slug": "popular",
+    "title": "Being Popular",
+    "date": "2001-01-01",
+    "url": "https://paulgraham.com/popular.html"
+  },
+  {
+    "slug": "langdes",
+    "title": "Five Questions about Language Design",
+    "date": "2007-02-15",
+    "url": "https://paulgraham.com/langdes.html"
+  },
+  {
+    "slug": "rootsoflisp",
+    "title": "The Roots of Lisp",
+    "date": "2007-02-02",
+    "url": "https://paulgraham.com/rootsoflisp.html"
+  },
+  {
+    "slug": "road",
+    "title": "The Other Road Ahead",
+    "date": "2001-01-01",
+    "url": "https://paulgraham.com/road.html"
+  },
+  {
+    "slug": "diff",
+    "title": "What Made Lisp Different",
+    "date": "2007-02-17",
+    "url": "https://paulgraham.com/diff.html"
+  },
+  {
+    "slug": "noop",
+    "title": "Why Arc Isn't Especially Object-Oriented",
+    "date": "",
+    "url": "https://paulgraham.com/noop.html"
+  },
+  {
+    "slug": "taste",
+    "title": "Taste for Makers",
+    "date": "2002-01-01",
+    "url": "https://paulgraham.com/taste.html"
+  },
+  {
+    "slug": "fix",
+    "title": "What Languages Fix",
+    "date": "2007-02-06",
+    "url": "https://paulgraham.com/fix.html"
+  },
+  {
+    "slug": "power",
+    "title": "Succinctness is Power",
+    "date": "2002-01-01",
+    "url": "https://paulgraham.com/power.html"
+  },
+  {
+    "slug": "icad",
+    "title": "Revenge of the Nerds",
+    "date": "2001-12-14",
+    "url": "https://paulgraham.com/icad.html"
+  },
+  {
+    "slug": "spam",
+    "title": "A Plan for Spam",
+    "date": "2016-08-02",
+    "url": "https://paulgraham.com/spam.html"
+  },
+  {
+    "slug": "desres",
+    "title": "Design and Research",
+    "date": "2003-01-01",
+    "url": "https://paulgraham.com/desres.html"
+  },
+  {
+    "slug": "better",
+    "title": "Better Bayesian Filtering",
+    "date": "2002-12-10",
+    "url": "https://paulgraham.com/better.html"
+  },
+  {
+    "slug": "nerds",
+    "title": "Why Nerds are Unpopular",
+    "date": "2009-03-01",
+    "url": "https://paulgraham.com/nerds.html"
+  },
+  {
+    "slug": "hundred",
+    "title": "The Hundred-Year Language",
+    "date": "2003-01-01",
+    "url": "https://paulgraham.com/hundred.html"
+  },
+  {
+    "slug": "iflisp",
+    "title": "If Lisp is So Great",
+    "date": "2003-01-01",
+    "url": "https://paulgraham.com/iflisp.html"
+  },
+  {
+    "slug": "hp",
+    "title": "Hackers and Painters",
+    "date": "2003-01-01",
+    "url": "https://paulgraham.com/hp.html"
+  },
+  {
+    "slug": "ffb",
+    "title": "Filters that Fight Back",
+    "date": "2003-11-16",
+    "url": "https://paulgraham.com/ffb.html"
+  },
+  {
+    "slug": "say",
+    "title": "What You Can't Say",
+    "date": "2007-08-01",
+    "url": "https://paulgraham.com/say.html"
+  },
+  {
+    "slug": "gba",
+    "title": "The Word \"Hacker\"",
+    "date": "2004-01-01",
+    "url": "https://paulgraham.com/gba.html"
+  },
+  {
+    "slug": "wealth",
+    "title": "How to Make Wealth",
+    "date": "2006-01-26",
+    "url": "https://paulgraham.com/wealth.html"
+  },
+  {
+    "slug": "gap",
+    "title": "Mind the Gap",
+    "date": "2002-03-01",
+    "url": "https://paulgraham.com/gap.html"
+  },
+  {
+    "slug": "gh",
+    "title": "Great Hackers",
+    "date": "2004-09-01",
+    "url": "https://paulgraham.com/gh.html"
+  },
+  {
+    "slug": "pypar",
+    "title": "The Python Paradox",
+    "date": "2014-12-01",
+    "url": "https://paulgraham.com/pypar.html"
+  },
+  {
+    "slug": "essay",
+    "title": "The Age of the Essay",
+    "date": "2004-01-01",
+    "url": "https://paulgraham.com/essay.html"
+  },
+  {
+    "slug": "bubble",
+    "title": "What the Bubble Got Right",
+    "date": "2004-04-30",
+    "url": "https://paulgraham.com/bubble.html"
+  },
+  {
+    "slug": "laundry",
+    "title": "A Version 1.0",
+    "date": "2004-01-01",
+    "url": "https://paulgraham.com/laundry.html"
+  },
+  {
+    "slug": "polls",
+    "title": "Bradley's Ghost",
+    "date": "2007-01-27",
+    "url": "https://paulgraham.com/polls.html"
+  },
+  {
+    "slug": "charisma",
+    "title": "It's Charisma, Stupid",
+    "date": "2007-02-12",
+    "url": "https://paulgraham.com/charisma.html"
+  },
+  {
+    "slug": "usa",
+    "title": "Made in USA",
+    "date": "2004-01-01",
+    "url": "https://paulgraham.com/usa.html"
+  },
+  {
+    "slug": "hs",
+    "title": "What You'll Wish You'd Known",
+    "date": "2005-01-01",
+    "url": "https://paulgraham.com/hs.html"
+  },
+  {
+    "slug": "start",
+    "title": "How to Start a Startup",
+    "date": "2005-10-21",
+    "url": "https://paulgraham.com/start.html"
+  },
+  {
+    "slug": "venturecapital",
+    "title": "A Unified Theory of VC Suckage",
+    "date": "2007-02-14",
+    "url": "https://paulgraham.com/venturecapital.html"
+  },
+  {
+    "slug": "college",
+    "title": "Undergraduation",
+    "date": "2005-01-01",
+    "url": "https://paulgraham.com/college.html"
+  },
+  {
+    "slug": "writing44",
+    "title": "Writing,  Briefly",
+    "date": "2007-10-16",
+    "url": "https://paulgraham.com/writing44.html"
+  },
+  {
+    "slug": "mac",
+    "title": "Return of the Mac",
+    "date": "2005-01-01",
+    "url": "https://paulgraham.com/mac.html"
+  },
+  {
+    "slug": "bronze",
+    "title": "Why Smart People Have Bad Ideas",
+    "date": "1995-01-01",
+    "url": "https://paulgraham.com/bronze.html"
+  },
+  {
+    "slug": "submarine",
+    "title": "The Submarine",
+    "date": "2005-04-19",
+    "url": "https://paulgraham.com/submarine.html"
+  },
+  {
+    "slug": "hiring",
+    "title": "Hiring is Obsolete",
+    "date": "2006-01-10",
+    "url": "https://paulgraham.com/hiring.html"
+  },
+  {
+    "slug": "opensource",
+    "title": "What Business Can Learn from Open Source",
+    "date": "2008-12-01",
+    "url": "https://paulgraham.com/opensource.html"
+  },
+  {
+    "slug": "ladder",
+    "title": "After the Ladder",
+    "date": "2006-01-11",
+    "url": "https://paulgraham.com/ladder.html"
+  },
+  {
+    "slug": "inequality",
+    "title": "Inequality and Risk",
+    "date": "2006-01-07",
+    "url": "https://paulgraham.com/inequality.html"
+  },
+  {
+    "slug": "sfp",
+    "title": "What I Did this Summer",
+    "date": "2006-01-12",
+    "url": "https://paulgraham.com/sfp.html"
+  },
+  {
+    "slug": "ideas",
+    "title": "Ideas for Startups",
+    "date": "2006-04-21",
+    "url": "https://paulgraham.com/ideas.html"
+  },
+  {
+    "slug": "vcsqueeze",
+    "title": "The Venture Capital Squeeze",
+    "date": "2007-02-05",
+    "url": "https://paulgraham.com/vcsqueeze.html"
+  },
+  {
+    "slug": "startupfunding",
+    "title": "How to Fund a Startup",
+    "date": "2020-03-01",
+    "url": "https://paulgraham.com/startupfunding.html"
+  },
+  {
+    "slug": "web20",
+    "title": "Web 2.0",
+    "date": "2005-09-30",
+    "url": "https://paulgraham.com/web20.html"
+  },
+  {
+    "slug": "procrastination",
+    "title": "Good and Bad Procrastination",
+    "date": "2006-02-09",
+    "url": "https://paulgraham.com/procrastination.html"
+  },
+  {
+    "slug": "love",
+    "title": "How to Do What You Love",
+    "date": "2006-01-31",
+    "url": "https://paulgraham.com/love.html"
+  },
+  {
+    "slug": "whyyc",
+    "title": "Why YC",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/whyyc.html"
+  },
+  {
+    "slug": "6631327",
+    "title": "6,631,372",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/6631327.html"
+  },
+  {
+    "slug": "softwarepatents",
+    "title": "Are Software Patents Evil?",
+    "date": "2006-03-15",
+    "url": "https://paulgraham.com/softwarepatents.html"
+  },
+  {
+    "slug": "randomness",
+    "title": "See Randomness",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/randomness.html"
+  },
+  {
+    "slug": "startuplessons",
+    "title": "The Hardest Lessons for Startups to Learn",
+    "date": "2007-01-30",
+    "url": "https://paulgraham.com/startuplessons.html"
+  },
+  {
+    "slug": "siliconvalley",
+    "title": "How to Be Silicon Valley",
+    "date": "2006-08-02",
+    "url": "https://paulgraham.com/siliconvalley.html"
+  },
+  {
+    "slug": "america",
+    "title": "Why Startups Condense in America",
+    "date": "2007-02-04",
+    "url": "https://paulgraham.com/america.html"
+  },
+  {
+    "slug": "marginal",
+    "title": "The Power of the Marginal",
+    "date": "2004-03-15",
+    "url": "https://paulgraham.com/marginal.html"
+  },
+  {
+    "slug": "island",
+    "title": "The Island Test",
+    "date": "2006-07-21",
+    "url": "https://paulgraham.com/island.html"
+  },
+  {
+    "slug": "copy",
+    "title": "Copy What You Like",
+    "date": "2006-01-01",
+    "url": "https://paulgraham.com/copy.html"
+  },
+  {
+    "slug": "investors",
+    "title": "How to Present to Investors",
+    "date": "2007-01-30",
+    "url": "https://paulgraham.com/investors.html"
+  },
+  {
+    "slug": "mit",
+    "title": "A Student's Guide to Startups",
+    "date": "2020-08-01",
+    "url": "https://paulgraham.com/mit.html"
+  },
+  {
+    "slug": "startupmistakes",
+    "title": "The 18 Mistakes That Kill Startups",
+    "date": "2020-10-18",
+    "url": "https://paulgraham.com/startupmistakes.html"
+  },
+  {
+    "slug": "goodart",
+    "title": "How Art Can Be Good",
+    "date": "2007-01-26",
+    "url": "https://paulgraham.com/goodart.html"
+  },
+  {
+    "slug": "foundersatwork",
+    "title": "Learning from Founders",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/foundersatwork.html"
+  },
+  {
+    "slug": "wisdom",
+    "title": "Is It Worth Being Wise?",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/wisdom.html"
+  },
+  {
+    "slug": "notnot",
+    "title": "Why to Not Not Start a Startup",
+    "date": "2009-08-28",
+    "url": "https://paulgraham.com/notnot.html"
+  },
+  {
+    "slug": "microsoft",
+    "title": "Microsoft is Dead",
+    "date": "2008-10-05",
+    "url": "https://paulgraham.com/microsoft.html"
+  },
+  {
+    "slug": "judgement",
+    "title": "Two Kinds of Judgement",
+    "date": "2020-02-01",
+    "url": "https://paulgraham.com/judgement.html"
+  },
+  {
+    "slug": "guidetoinvestors",
+    "title": "The Hacker's Guide to Investors",
+    "date": "2007-02-01",
+    "url": "https://paulgraham.com/guidetoinvestors.html"
+  },
+  {
+    "slug": "unions",
+    "title": "An Alternative Theory of Unions",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/unions.html"
+  },
+  {
+    "slug": "equity",
+    "title": "The Equity Equation",
+    "date": "2007-07-17",
+    "url": "https://paulgraham.com/equity.html"
+  },
+  {
+    "slug": "stuff",
+    "title": "Stuff",
+    "date": "2008-07-01",
+    "url": "https://paulgraham.com/stuff.html"
+  },
+  {
+    "slug": "head",
+    "title": "Holding a Program in One's Head",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/head.html"
+  },
+  {
+    "slug": "die",
+    "title": "How Not to Die",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/die.html"
+  },
+  {
+    "slug": "colleges",
+    "title": "News from the Front",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/colleges.html"
+  },
+  {
+    "slug": "philosophy",
+    "title": "How to Do Philosophy",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/philosophy.html"
+  },
+  {
+    "slug": "webstartups",
+    "title": "The Future of Web Startups",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/webstartups.html"
+  },
+  {
+    "slug": "startuphubs",
+    "title": "Why to Move to a Startup Hub",
+    "date": "2007-01-01",
+    "url": "https://paulgraham.com/startuphubs.html"
+  },
+  {
+    "slug": "newthings",
+    "title": "Six Principles for Making New Things",
+    "date": "1995-01-01",
+    "url": "https://paulgraham.com/newthings.html"
+  },
+  {
+    "slug": "trolls",
+    "title": "Trolls",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/trolls.html"
+  },
+  {
+    "slug": "ycombinator",
+    "title": "A New Venture Animal",
+    "date": "2013-01-01",
+    "url": "https://paulgraham.com/ycombinator.html"
+  },
+  {
+    "slug": "boss",
+    "title": "You Weren't Meant to Have a Boss",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/boss.html"
+  },
+  {
+    "slug": "disagree",
+    "title": "How to Disagree",
+    "date": "2009-06-07",
+    "url": "https://paulgraham.com/disagree.html"
+  },
+  {
+    "slug": "heroes",
+    "title": "Some Heroes",
+    "date": "2008-01-01",
+    "url": "https://paulgraham.com/heroes.html"
+  },
+  {
+    "slug": "googles",
+    "title": "Why There Aren't More Googles",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/googles.html"
+  },
+  {
+    "slug": "good",
+    "title": "Be Good",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/good.html"
+  },
+  {
+    "slug": "lies",
+    "title": "Lies We Tell Kids",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/lies.html"
+  },
+  {
+    "slug": "distraction",
+    "title": "Disconnecting Distraction",
+    "date": "2008-05-20",
+    "url": "https://paulgraham.com/distraction.html"
+  },
+  {
+    "slug": "cities",
+    "title": "Cities and Ambition",
+    "date": "2008-01-01",
+    "url": "https://paulgraham.com/cities.html"
+  },
+  {
+    "slug": "prcmc",
+    "title": "The Pooled-Risk Company Management Company",
+    "date": "2006-11-08",
+    "url": "https://paulgraham.com/prcmc.html"
+  },
+  {
+    "slug": "fundraising",
+    "title": "A Fundraising Survival Guide",
+    "date": "2008-08-01",
+    "url": "https://paulgraham.com/fundraising.html"
+  },
+  {
+    "slug": "badeconomy",
+    "title": "Why to Start a Startup in a Bad Economy",
+    "date": "2008-10-01",
+    "url": "https://paulgraham.com/badeconomy.html"
+  },
+  {
+    "slug": "artistsship",
+    "title": "The Other Half of \"Artists Ship\"",
+    "date": "2008-01-01",
+    "url": "https://paulgraham.com/artistsship.html"
+  },
+  {
+    "slug": "highres",
+    "title": "The High-Res Society",
+    "date": "2008-01-01",
+    "url": "https://paulgraham.com/highres.html"
+  },
+  {
+    "slug": "divergence",
+    "title": "Could VC be a Casualty of the Recession?",
+    "date": "2008-12-07",
+    "url": "https://paulgraham.com/divergence.html"
+  },
+  {
+    "slug": "credentials",
+    "title": "After Credentials",
+    "date": "2008-01-01",
+    "url": "https://paulgraham.com/credentials.html"
+  },
+  {
+    "slug": "identity",
+    "title": "Keep Your Identity Small",
+    "date": "2006-04-18",
+    "url": "https://paulgraham.com/identity.html"
+  },
+  {
+    "slug": "13sentences",
+    "title": "Startups in 13 Sentences",
+    "date": "2009-05-13",
+    "url": "https://paulgraham.com/13sentences.html"
+  },
+  {
+    "slug": "hackernews",
+    "title": "What I've Learned from Hacker News",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/hackernews.html"
+  },
+  {
+    "slug": "maybe",
+    "title": "Can You Buy a Silicon Valley?  Maybe.",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/maybe.html"
+  },
+  {
+    "slug": "convergence",
+    "title": "Why TV Lost",
+    "date": "2015-03-20",
+    "url": "https://paulgraham.com/convergence.html"
+  },
+  {
+    "slug": "angelinvesting",
+    "title": "How to Be an Angel Investor",
+    "date": "1998-01-01",
+    "url": "https://paulgraham.com/angelinvesting.html"
+  },
+  {
+    "slug": "relres",
+    "title": "Relentlessly Resourceful",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/relres.html"
+  },
+  {
+    "slug": "5founders",
+    "title": "Five Founders",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/5founders.html"
+  },
+  {
+    "slug": "foundervisa",
+    "title": "The Founder Visa",
+    "date": "2006-11-15",
+    "url": "https://paulgraham.com/foundervisa.html"
+  },
+  {
+    "slug": "twitter",
+    "title": "Why Twitter is a Big Deal",
+    "date": "2009-04-03",
+    "url": "https://paulgraham.com/twitter.html"
+  },
+  {
+    "slug": "revolution",
+    "title": "A Local Revolution?",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/revolution.html"
+  },
+  {
+    "slug": "makersschedule",
+    "title": "Maker's Schedule, Manager's Schedule",
+    "date": "2014-02-07",
+    "url": "https://paulgraham.com/makersschedule.html"
+  },
+  {
+    "slug": "ramenprofitable",
+    "title": "Ramen Profitable",
+    "date": "2006-04-30",
+    "url": "https://paulgraham.com/ramenprofitable.html"
+  },
+  {
+    "slug": "segway",
+    "title": "The Trouble with the Segway",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/segway.html"
+  },
+  {
+    "slug": "kate",
+    "title": "What Kate Saw in Silicon Valley",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/kate.html"
+  },
+  {
+    "slug": "determination",
+    "title": "The Anatomy of Determination",
+    "date": "2009-09-01",
+    "url": "https://paulgraham.com/determination.html"
+  },
+  {
+    "slug": "nthings",
+    "title": "The List of N Things",
+    "date": "2009-09-01",
+    "url": "https://paulgraham.com/nthings.html"
+  },
+  {
+    "slug": "publishing",
+    "title": "Post-Medium Publishing",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/publishing.html"
+  },
+  {
+    "slug": "discover",
+    "title": "Persuade xor Discover",
+    "date": "2009-01-01",
+    "url": "https://paulgraham.com/discover.html"
+  },
+  {
+    "slug": "really",
+    "title": "What Startups Are Really Like",
+    "date": "2009-11-08",
+    "url": "https://paulgraham.com/really.html"
+  },
+  {
+    "slug": "apple",
+    "title": "Apple's Mistake",
+    "date": "1995-01-01",
+    "url": "https://paulgraham.com/apple.html"
+  },
+  {
+    "slug": "organic",
+    "title": "Organic Startup Ideas",
+    "date": "2004-01-01",
+    "url": "https://paulgraham.com/organic.html"
+  },
+  {
+    "slug": "selfindulgence",
+    "title": "How to Lose Time and Money",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/selfindulgence.html"
+  },
+  {
+    "slug": "top",
+    "title": "The Top Idea in Your Mind",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/top.html"
+  },
+  {
+    "slug": "addiction",
+    "title": "The Acceleration of Addictiveness",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/addiction.html"
+  },
+  {
+    "slug": "future",
+    "title": "The Future of Startup Funding",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/future.html"
+  },
+  {
+    "slug": "yahoo",
+    "title": "What Happened to Yahoo",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/yahoo.html"
+  },
+  {
+    "slug": "hiresfund",
+    "title": "High Resolution Fundraising",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/hiresfund.html"
+  },
+  {
+    "slug": "seesv",
+    "title": "Where to See Silicon Valley",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/seesv.html"
+  },
+  {
+    "slug": "superangels",
+    "title": "The New Funding Landscape",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/superangels.html"
+  },
+  {
+    "slug": "founders",
+    "title": "What We Look for in Founders",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/founders.html"
+  },
+  {
+    "slug": "tablets",
+    "title": "Tablets",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/tablets.html"
+  },
+  {
+    "slug": "control",
+    "title": "Founder Control",
+    "date": "2010-01-01",
+    "url": "https://paulgraham.com/control.html"
+  },
+  {
+    "slug": "airbnb",
+    "title": "Subject: Airbnb",
+    "date": "2011-03-01",
+    "url": "https://paulgraham.com/airbnb.html"
+  },
+  {
+    "slug": "patentpledge",
+    "title": "The Patent Pledge",
+    "date": "2011-04-27",
+    "url": "https://paulgraham.com/patentpledge.html"
+  },
+  {
+    "slug": "hubs",
+    "title": "Why Startup Hubs Work",
+    "date": "2004-01-01",
+    "url": "https://paulgraham.com/hubs.html"
+  },
+  {
+    "slug": "vw",
+    "title": "Snapshot: Viaweb, June 1998",
+    "date": "1998-01-01",
+    "url": "https://paulgraham.com/vw.html"
+  },
+  {
+    "slug": "schlep",
+    "title": "Schlep Blindness",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/schlep.html"
+  },
+  {
+    "slug": "word",
+    "title": "A Word to the Resourceful",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/word.html"
+  },
+  {
+    "slug": "ambitious",
+    "title": "Frighteningly Ambitious Startup Ideas",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/ambitious.html"
+  },
+  {
+    "slug": "property",
+    "title": "Defining Property",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/property.html"
+  },
+  {
+    "slug": "ycstart",
+    "title": "How Y Combinator Started",
+    "date": "2005-03-11",
+    "url": "https://paulgraham.com/ycstart.html"
+  },
+  {
+    "slug": "speak",
+    "title": "Writing and Speaking",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/speak.html"
+  },
+  {
+    "slug": "todo",
+    "title": "The Top of My Todo List",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/todo.html"
+  },
+  {
+    "slug": "swan",
+    "title": "Black Swan Farming",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/swan.html"
+  },
+  {
+    "slug": "growth",
+    "title": "Startup = Growth",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/growth.html"
+  },
+  {
+    "slug": "hw",
+    "title": "The Hardware Renaissance",
+    "date": "2012-05-11",
+    "url": "https://paulgraham.com/hw.html"
+  },
+  {
+    "slug": "startupideas",
+    "title": "How to Get Startup Ideas",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/startupideas.html"
+  },
+  {
+    "slug": "invtrend",
+    "title": "Startup Investing Trends",
+    "date": "2013-01-01",
+    "url": "https://paulgraham.com/invtrend.html"
+  },
+  {
+    "slug": "ds",
+    "title": "Do Things that Don't Scale",
+    "date": "2013-07-25",
+    "url": "https://paulgraham.com/ds.html"
+  },
+  {
+    "slug": "convince",
+    "title": "How to Convince Investors",
+    "date": "2013-01-01",
+    "url": "https://paulgraham.com/convince.html"
+  },
+  {
+    "slug": "herd",
+    "title": "Investor Herd Dynamics",
+    "date": "2013-08-26",
+    "url": "https://paulgraham.com/herd.html"
+  },
+  {
+    "slug": "fr",
+    "title": "How to Raise Money",
+    "date": "2014-03-01",
+    "url": "https://paulgraham.com/fr.html"
+  },
+  {
+    "slug": "before",
+    "title": "Before the Startup",
+    "date": "2014-01-01",
+    "url": "https://paulgraham.com/before.html"
+  },
+  {
+    "slug": "mean",
+    "title": "Mean People Fail",
+    "date": "2014-01-01",
+    "url": "https://paulgraham.com/mean.html"
+  },
+  {
+    "slug": "pinch",
+    "title": "The Fatal Pinch",
+    "date": "2014-01-01",
+    "url": "https://paulgraham.com/pinch.html"
+  },
+  {
+    "slug": "know",
+    "title": "How You Know",
+    "date": "2014-01-01",
+    "url": "https://paulgraham.com/know.html"
+  },
+  {
+    "slug": "ecw",
+    "title": "How to Be an Expert in a Changing World",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/ecw.html"
+  },
+  {
+    "slug": "95",
+    "title": "Let the Other 95% of Great Programmers In",
+    "date": "2014-01-01",
+    "url": "https://paulgraham.com/95.html"
+  },
+  {
+    "slug": "corpdev",
+    "title": "Don't Talk to Corp Dev",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/corpdev.html"
+  },
+  {
+    "slug": "work",
+    "title": "What Doesn't Seem Like Work?",
+    "date": "2020-09-01",
+    "url": "https://paulgraham.com/work.html"
+  },
+  {
+    "slug": "ronco",
+    "title": "The Ronco Principle",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/ronco.html"
+  },
+  {
+    "slug": "altair",
+    "title": "What Microsoft Is this the Altair Basic of?",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/altair.html"
+  },
+  {
+    "slug": "name",
+    "title": "Change Your Name",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/name.html"
+  },
+  {
+    "slug": "safe",
+    "title": "Why It's Safe for Founders to Be Nice",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/safe.html"
+  },
+  {
+    "slug": "aord",
+    "title": "Default Alive or Default Dead?",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/aord.html"
+  },
+  {
+    "slug": "talk",
+    "title": "Write Like You Talk",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/talk.html"
+  },
+  {
+    "slug": "bias",
+    "title": "A Way to Detect Bias",
+    "date": "2020-09-10",
+    "url": "https://paulgraham.com/bias.html"
+  },
+  {
+    "slug": "jessica",
+    "title": "Jessica Livingston",
+    "date": "2015-01-01",
+    "url": "https://paulgraham.com/jessica.html"
+  },
+  {
+    "slug": "re",
+    "title": "The Refragmentation",
+    "date": "2016-04-01",
+    "url": "https://paulgraham.com/re.html"
+  },
+  {
+    "slug": "ineq",
+    "title": "Economic Inequality",
+    "date": "2015-04-28",
+    "url": "https://paulgraham.com/ineq.html"
+  },
+  {
+    "slug": "vb",
+    "title": "Life is Short",
+    "date": "2016-01-01",
+    "url": "https://paulgraham.com/vb.html"
+  },
+  {
+    "slug": "pgh",
+    "title": "How to Make Pittsburgh a Startup Hub",
+    "date": "2016-04-06",
+    "url": "https://paulgraham.com/pgh.html"
+  },
+  {
+    "slug": "disc",
+    "title": "The Risk of Discovery",
+    "date": "2017-01-01",
+    "url": "https://paulgraham.com/disc.html"
+  },
+  {
+    "slug": "pow",
+    "title": "Charisma / Power",
+    "date": "2017-01-01",
+    "url": "https://paulgraham.com/pow.html"
+  },
+  {
+    "slug": "sun",
+    "title": "General and Surprising",
+    "date": "2017-01-01",
+    "url": "https://paulgraham.com/sun.html"
+  },
+  {
+    "slug": "genius",
+    "title": "The Bus Ticket Theory of Genius",
+    "date": "2022-01-01",
+    "url": "https://paulgraham.com/genius.html"
+  },
+  {
+    "slug": "nov",
+    "title": "Novelty and Heresy",
+    "date": "2019-01-01",
+    "url": "https://paulgraham.com/nov.html"
+  },
+  {
+    "slug": "lesson",
+    "title": "The Lesson to Unlearn",
+    "date": "2020-09-25",
+    "url": "https://paulgraham.com/lesson.html"
+  },
+  {
+    "slug": "kids",
+    "title": "Having Kids",
+    "date": "2020-02-01",
+    "url": "https://paulgraham.com/kids.html"
+  },
+  {
+    "slug": "fp",
+    "title": "Fashionable Problems",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/fp.html"
+  },
+  {
+    "slug": "mod",
+    "title": "The Two Kinds of Moderate",
+    "date": "2019-01-01",
+    "url": "https://paulgraham.com/mod.html"
+  },
+  {
+    "slug": "fh",
+    "title": "Haters",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/fh.html"
+  },
+  {
+    "slug": "noob",
+    "title": "Being a Noob",
+    "date": "2020-04-18",
+    "url": "https://paulgraham.com/noob.html"
+  },
+  {
+    "slug": "useful",
+    "title": "How to Write Usefully",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/useful.html"
+  },
+  {
+    "slug": "cred",
+    "title": "Coronavirus and Credibility",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/cred.html"
+  },
+  {
+    "slug": "orth",
+    "title": "Orthodox Privilege",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/orth.html"
+  },
+  {
+    "slug": "conformism",
+    "title": "The Four Quadrants of Conformism",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/conformism.html"
+  },
+  {
+    "slug": "wtax",
+    "title": "Modeling a Wealth Tax",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/wtax.html"
+  },
+  {
+    "slug": "early",
+    "title": "Early Work",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/early.html"
+  },
+  {
+    "slug": "think",
+    "title": "How to Think for Yourself",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/think.html"
+  },
+  {
+    "slug": "airbnbs",
+    "title": "The Airbnbs",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/airbnbs.html"
+  },
+  {
+    "slug": "ace",
+    "title": "Billionaires Build",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/ace.html"
+  },
+  {
+    "slug": "earnest",
+    "title": "Earnestness",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/earnest.html"
+  },
+  {
+    "slug": "worked",
+    "title": "What I Worked On",
+    "date": "2014-01-15",
+    "url": "https://paulgraham.com/worked.html"
+  },
+  {
+    "slug": "donate",
+    "title": "Donate Unrestricted",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/donate.html"
+  },
+  {
+    "slug": "simply",
+    "title": "Write Simply",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/simply.html"
+  },
+  {
+    "slug": "richnow",
+    "title": "How People Get Rich Now",
+    "date": "2020-01-01",
+    "url": "https://paulgraham.com/richnow.html"
+  },
+  {
+    "slug": "real",
+    "title": "The Real Reason to End the Death Penalty",
+    "date": "2019-12-29",
+    "url": "https://paulgraham.com/real.html"
+  },
+  {
+    "slug": "nft",
+    "title": "An NFT That Saves Lives",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/nft.html"
+  },
+  {
+    "slug": "newideas",
+    "title": "Crazy New Ideas",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/newideas.html"
+  },
+  {
+    "slug": "fn",
+    "title": "Fierce Nerds",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/fn.html"
+  },
+  {
+    "slug": "own",
+    "title": "A Project of One's Own",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/own.html"
+  },
+  {
+    "slug": "hwh",
+    "title": "How to Work Hard",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/hwh.html"
+  },
+  {
+    "slug": "weird",
+    "title": "Weird Languages",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/weird.html"
+  },
+  {
+    "slug": "smart",
+    "title": "Beyond Smart",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/smart.html"
+  },
+  {
+    "slug": "goodtaste",
+    "title": "Is There Such a Thing as Good Taste?",
+    "date": "2021-01-01",
+    "url": "https://paulgraham.com/goodtaste.html"
+  },
+  {
+    "slug": "words",
+    "title": "Putting Ideas into Words",
+    "date": "2022-01-01",
+    "url": "https://paulgraham.com/words.html"
+  },
+  {
+    "slug": "heresy",
+    "title": "Heresy",
+    "date": "2022-03-18",
+    "url": "https://paulgraham.com/heresy.html"
+  },
+  {
+    "slug": "users",
+    "title": "What I've Learned from Users",
+    "date": "2012-01-01",
+    "url": "https://paulgraham.com/users.html"
+  },
+  {
+    "slug": "alien",
+    "title": "Alien Truth",
+    "date": "2022-01-01",
+    "url": "https://paulgraham.com/alien.html"
+  },
+  {
+    "slug": "want",
+    "title": "What You (Want to)* Want",
+    "date": "2022-11-28",
+    "url": "https://paulgraham.com/want.html"
+  },
+  {
+    "slug": "read",
+    "title": "The Need to Read",
+    "date": "2022-01-01",
+    "url": "https://paulgraham.com/read.html"
+  },
+  {
+    "slug": "getideas",
+    "title": "How to Get New Ideas",
+    "date": "2023-01-01",
+    "url": "https://paulgraham.com/getideas.html"
+  },
+  {
+    "slug": "greatwork",
+    "title": "How to Do Great Work",
+    "date": "2023-01-01",
+    "url": "https://paulgraham.com/greatwork.html"
+  },
+  {
+    "slug": "superlinear",
+    "title": "Superlinear Returns",
+    "date": "2023-01-01",
+    "url": "https://paulgraham.com/superlinear.html"
+  },
+  {
+    "slug": "best",
+    "title": "The Best Essay",
+    "date": "2024-01-01",
+    "url": "https://paulgraham.com/best.html"
+  },
+  {
+    "slug": "google",
+    "title": "How to Start Google",
+    "date": "2024-01-01",
+    "url": "https://paulgraham.com/google.html"
+  },
+  {
+    "slug": "reddits",
+    "title": "The Reddits",
+    "date": "2024-01-01",
+    "url": "https://paulgraham.com/reddits.html"
+  },
+  {
+    "slug": "persistence",
+    "title": "The Right Kind of Stubborn",
+    "date": "2024-01-01",
+    "url": "https://paulgraham.com/persistence.html"
+  }
+]

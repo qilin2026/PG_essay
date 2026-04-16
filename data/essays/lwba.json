@@ -1,0 +1,16 @@
+{
+  "slug": "lwba",
+  "title": "Lisp for Web-Based Applications",
+  "title_zh": "",
+  "date": "2001-01-01",
+  "url": "https://paulgraham.com/lwba.html",
+  "category": "lisp",
+  "included": false,
+  "paragraphs_en": [
+    "After a link toBeating the Averageswas posted on slashdot, some readers wanted to hear in more detail about the specific technical advantages we got from using Lisp in Viaweb. For those who are interested, here are some excerpts from a talk I gave in April 2001 at BBN Labs in Cambridge, MA.",
+    "BBN Talk Excerpts (ASCII)"
+  ],
+  "paragraphs_zh": [],
+  "translation_status": "pending",
+  "scraped_at": "2026-04-16T02:34:50.408578+00:00"
+}
