@@ -15,7 +15,15 @@
     "The real reason we started Y Combinator is one probably only ahackerwould understand. We did it because it seems such a great hack. There are thousands of smart people who could start companies and don't, and with a relatively small amount of force applied at just the right place, we can spring on the world a stream of new startups that might otherwise not have existed.",
     "In a way this is virtuous, because I think startups are a good thing. But really what motivates us is the completely amoral desire that would motivate any hacker who looked at some complex device and realized that with a tiny tweak he could make it run more efficiently. In this case, the device is the world's economy, which fortunately happens to be open source."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "2006年3月，2009年8月修订",
+    "昨天我们资助的一位创始人问我为什么创办 Y Combinator（Y Combinator）。或者更准确地说，他问我们创办 YC 主要是不是为了好玩。",
+    "算是，但不完全是。能再次与 Rtm 和 Trevor 一起工作确实非常开心。卖掉 Viaweb 后我就想念这种合作了，之后的所有年里我一直有一个后台进程在运行，寻找我们能一起做的事情。Y Combinator 确实有一种乐队重聚的感觉。每隔几天我就会不小心把它叫成'Viaweb'。",
+    "Viaweb 我们创办的目的非常明确，就是赚钱。我厌倦了从一个自由职业项目到下一个地过活，决定拼命工作直到赚够解决这个问题。Viaweb 有时很有趣，但它不是为了有趣而设计的，大部分时候也不有趣。如果有任何初创公司是这样的，我会很惊讶。所有初创公司大部分时间都是苦差事。",
+    "我们创办 Y Combinator 的真正原因既不自私也不高尚。我们创办它主要不是为了赚钱；我们不知道我们的平均回报可能是多少，而且多年内都不会知道。我们创办 YC 也不主要是为了帮助年轻的准创始人，尽管我们确实喜欢这个想法，偶尔也会用'如果我们所有投资都亏了，那我们至少做了件无私的事'这个想法来安慰自己。（这话说起来奇妙地具有非确定性。）",
+    "我们创办 Y Combinator 的真正原因，大概只有黑客才能理解。我们这样做是因为它似乎是一个绝妙的 hack。有数千个聪明人可以创办公司但没有，只需要在恰当的地方施加相对较小的力，我们就可以向世界释放出一连串原本可能不会存在的新初创公司。",
+    "从某种意义上说这是高尚的，因为我认为初创公司是好事。但真正驱动我们的是那种完全不涉及道德的欲望——任何一个黑客看到某个复杂装置并意识到只需做一个微小的调整就能让它运行得更高效时都会有的那种欲望。在这个案例中，这个装置是世界经济，幸运的是它恰好是开源的。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.433895+00:00"
 }

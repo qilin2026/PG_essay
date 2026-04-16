@@ -12,7 +12,11 @@
     "The way to get new ideas is to notice anomalies: what seems strange, or missing, or broken? You can see anomalies in everyday life (much of standup comedy is based on this), but the best place to look for them is at the frontiers of knowledge.",
     "Knowledge grows fractally. From a distance its edges look smooth, but when you learn enough to get close to one, you'll notice it's full of gaps. These gaps will seem obvious; it will seem inexplicable that no one has tried x or wondered about y. In the best case, exploring such gaps yields whole new fractal buds."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "（有人把我的文章喂给 GPT，做了一个能根据这些文章回答问题的东西，然后问它好想法从哪里来。答案还行，但不是我会说的。以下才是我会说的。）",
+    "获得新想法的方法是注意反常之处：什么看起来奇怪、缺失、或者不对劲？你可以在日常生活中发现反常之处（很多脱口秀喜剧就是基于此），但寻找反常的最佳场所是知识的前沿。",
+    "知识以分形方式生长。从远处看，它的边缘似乎很平滑，但当你学得足够多、足够接近某个边缘时，你会发现它充满了空白。这些空白会显得很明显；你会觉得不可思议，竟然没有人尝试过 x 或思考过 y。在最好的情况下，探索这些空白会产生全新的分形枝芽。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.499122+00:00"
 }
