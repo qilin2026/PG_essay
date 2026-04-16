@@ -32,7 +32,27 @@
     "[2]The obvious choice for your present valuation is the post-money valuation of your last funding round. This probably undervalues the company, though, because (a) unless your last round just happened, the company is presumably worth more, and (b) the valuation of an early funding round usually reflects some other contribution by the investors.",
     "Thanksto Sam Altman, Trevor Blackwell, Paul Buchheit, Hutch Fishman, David Hornik, Paul Kedrosky, Jessica Livingston, Gary Sabot, and Joshua Schachter for reading drafts of this."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "一个投资者想给你钱换取你初创公司的一定比例。你应该接受吗？你即将雇佣你的第三号员工。你应该给他多少股份？",
+    "这是创始人面临的最困难的问题之一。然而两者有同样的答案：",
+    "每当你用公司股份换取任何东西时——不管是钱、员工还是与另一家公司的合作——判断是否值得的标准是1/(1-n)。",
+    "例如，如果一个投资者想买你公司的一半，那笔投资必须让你的平均结果提高多少？根据方程是1/(1-.5) = 2倍。所以你只有在那笔投资能让公司至少翻倍时才应该接受。",
+    "一般情况下，如果 n 是你放弃的公司比例，当这笔交易让公司的价值提高到1/(1-n)倍时，这是一笔好交易。",
+    "例如，假设 Y Combinator 提出用你公司7%的股份来资助你。n 是0.07，1/(1-0.07)约等于1.075。所以如果 YC 的帮助能让你的公司的价值增加7.5%以上，这就是一笔好交易。",
+    "股权方程向我们展示的一件事是，至少从财务上看，从顶级风投公司拿钱可能是一笔非常好的交易。Greg McAdoo 在 Sequoia（红杉资本）管理的基金中位数回报是约50倍。",
+    "Sequoia 如此划算的原因是他们要的公司比例人为地低。他们不需要根据供求关系定价。他们是在做慈善。",
+    "问题是 Sequoia 每年收到大约6000份商业计划书，只资助大约20家，所以获得这种'慈善'的概率是约0.33%。",
+    "当然，风投交易中还有其他因素需要考虑。它永远不只是简单的钱换股票。但如果纯粹看数字，这个方程可以帮你做一个理性的决策。",
+    "你在给员工股份时也可以使用同样的公式，但方向相反。如果 i 是某人将提高公司平均结果的比例，那么值得给他的最大股份是约 i 本身。",
+    "例如，假设你只有两个创始人，你想雇一个额外的黑客，你觉得他会让公司好20%。那么你应该愿意给他多少？20%？不，最多16.7%。",
+    "这并不意味着16.7%就是给他的正确数额。股份不是雇人的唯一成本：还有工资和管理费用。",
+    "我认为把工资和管理费用转换成股份，你应该把年费率乘以大约1.5。大多数初创公司的增长率意味着一年半左右的薪资等于一份股份授予的价值。",
+    "公司应该需要多少额外的利润空间作为交易的'激活能'？因为这实际上是一笔风险投资——你用股份购买表现——我觉得你需要的回报率和风投差不多，大约是50%。",
+    "让我们来算一个例子。假设公司想从上面提到的新雇员身上获得50%的'利润'。",
+    "顺便注意到早期员工少拿工资是多么重要。这直接来自于本来可以用来代替它的股份。",
+    "显然这些数字有很大的弹性。我不是说股份授予现在可以简化为一个公式。但至少这给你一个起点来理解权衡。",
+    "更一般地说，当你做任何涉及股权的决定时，用1/(1-n)来检验它是否合理。你可能会惊讶于有多少决定在通过这个检验后看起来不同了。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.443506+00:00"
 }
