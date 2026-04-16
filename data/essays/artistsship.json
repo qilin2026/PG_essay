@@ -31,7 +31,16 @@
     "And just as the greatest danger of being hard to sell to is not that you overpay but that the best suppliers won't even sell to you, the greatest danger of applying too many checks to your programmers is not that you'll make them unproductive, but that good programmers won't even want to work for you.",
     "Steve Jobs's famous maxim \"artists ship\" works both ways. Artists aren't merely capable of shipping. They insist on it. So if you don't let people ship, you won't have any artists."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "苹果有一句著名的口号：'真正的艺术家出货。'这意味着不仅仅是创造伟大的东西很重要，把它送到用户手中也一样重要。",
+    "这句话通常被理解为对完美主义的反驳——不要无限期地打磨你的作品，在某个时候你必须发布它。这是对的。",
+    "但还有另一半含义，同样重要但不太常被讨论：出货必须包括完整的体验。不仅仅是核心产品，还有整个用户从发现到使用到遇到问题时寻求帮助的旅程。",
+    "苹果理解这一点比其他任何科技公司都好。他们不仅设计产品。他们设计拆箱体验。他们设计零售店。他们设计客户服务。",
+    "这对初创公司意味着什么？意味着'出货'不仅仅是把代码部署到服务器上。它意味着确保用户能找到你，能理解你做什么，能成功使用你的产品，以及在遇到问题时能得到帮助。",
+    "很多技术创始人把所有精力放在产品的核心功能上。产品确实是最重要的。但如果用户找不到你，或者找到了但不知道怎么用，那再好的产品也没用。",
+    "最好的初创公司——无论是Airbnb还是Stripe——都理解产品只是用户体验的一部分。他们对整个体验给予同等程度的关注。",
+    "所以当Steve Jobs说'真正的艺术家出货'时，他的意思比大多数人理解的更深。他不只是说'不要拖延'。他是说'把创造力应用到整个交付过程中，而不仅仅是产品本身'。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.452434+00:00"
 }
