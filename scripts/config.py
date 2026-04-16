@@ -2,7 +2,6 @@
 Configuration for PG Essay Chinese Mirror pipeline.
 """
 
-import os
 from pathlib import Path
 
 # --- Paths ---
@@ -26,22 +25,7 @@ REQUEST_HEADERS = {
     )
 }
 
-# --- Translation ---
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
-TRANSLATION_MODEL = "claude-sonnet-4-20250514"
-TRANSLATION_BATCH_SIZE = 3  # paragraphs per API call
-TRANSLATION_SYSTEM_PROMPT = """你正在将 Paul Graham 的文章翻译为简体中文。
-
-要求：
-- 保留作者对话式、深刻洞察的文风
-- 技术术语准确翻译（startup=初创公司，venture capital=风险投资）
-- 专有名词首次出现时中英对照，如：Y Combinator（Y Combinator）
-- 保留脚注标记 [1] [2] 等，不做改动
-- 仅输出中文译文，不添加任何解释或评论
-- 译文应流畅自然，避免翻译腔"""
-
 # --- Classification ---
-CLASSIFY_MODEL = "claude-haiku-4-5-20251001"
 
 # Manually curated overrides for borderline essays
 # True = include, False = exclude
