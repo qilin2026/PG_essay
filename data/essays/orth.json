@@ -23,7 +23,20 @@
     "Perhaps the solution is to appeal to politeness. If someone says they can hear a high-pitched noise that you can't, it's only polite to take them at their word, instead of demanding evidence that's impossible to produce, or simply denying that they hear anything. Imagine how rude that would seem. Similarly, if someone says they can think of things that are true but that cannot be said, it's only polite to take them at their word, even if you can't think of any yourself.",
     "Thanksto Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia- Martinez, Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and Harj Taggar for reading drafts of this."
   ],
-  "paragraphs_zh": [],
-  "translation_status": "pending",
+  "paragraphs_zh": [
+    "很少有人能够泰然自若地表达与其社会环境的偏见不同的意见。大多数人甚至没有能力形成这样的意见。——爱因斯坦",
+    "最近有很多关于特权的讨论。虽然这个概念被过度使用了，但它确实有一定道理，尤其是特权使你看不见的观点——你不知道你有的，因为你从未经历过没有它。",
+    "但这种盲目最普遍的例子之一是我没有看到被明确提及的。我称之为正统特权：你越是思想正统，你就越难意识到存在你不能说的正确的话。当你相信的一切恰好是当前被允许相信的东西时，你会经历一种虚假的自由感。你觉得你可以说任何你想说的，因为你想说的任何话都不会惹麻烦。",
+    "对他们来说表达自己的意见是安全的，因为他们意见的来源就是当前被接受的信条。所以他们觉得对每个人来说表达意见都一定是安全的。他们甚至不理解那些说某些正确的想法不被允许的人在说什么。",
+    "然而在历史上的每个时期，都有一些正确的话说出来会给你带来麻烦。我们这个时代是第一个不是这样的吗？那将是多么惊人的巧合啊。",
+    "当然，至少应该把默认假设设为我们的时代并不独特，现在和过去一样存在你不能说的正确的话。你会这么想的。但很少有人这么想。",
+    "在最极端的情况下，享有正统特权的人不仅会否认存在你不能说的正确的话，还会仅仅因为你提出存在这种可能性就指控你为异端。他们会说'那你觉得什么是不能说的正确的话？'然后当你不回答时，他们会说你不过是在没有受到批评的情况下假装受到了审查。",
+    "与这些人打交道虽然令人沮丧，但重要的是认识到他们是认真的。他们不是假装认为一个想法不可能既是非正统的又是正确的。他们无法想象这种可能性。",
+    "的确，这是一种特别顽固的特权形式。人们可以通过更多地了解他们所不是的群体来克服大多数形式的特权所导致的盲目。但他们不能通过观察来意识到正统特权的存在，因为他们注意不到不在那里的东西。",
+    "也许有可能说服一些人，尽管他们感知不到正统特权，但它一定存在，就像暗物质一样。可能有些人能被说服'嗯，如果它存在于历史上的每个时期，它大概也存在于现在，尽管我想不到任何例子。'",
+    "但总的来说，我不认为对这种特权说'检查你的特权'会有用，因为它的受众不知道自己属于这个群体。他们从来不是少数派——至少他们认为的少数派方面不是。所以他们的特权是不可见的。",
+    "也许解决方案是诉诸礼貌。如果有人说他们能听到一种你听不到的高频噪音，礼貌的做法是相信他们的话，而不是要求他们证明。同样，如果有人说他们有他们不能说的想法，礼貌的做法是至少把这当作一种可能性，而不是要求证明，然后当他们不给出证明时嘲笑他们。"
+  ],
+  "translation_status": "complete",
   "scraped_at": "2026-04-16T02:34:50.487873+00:00"
 }
